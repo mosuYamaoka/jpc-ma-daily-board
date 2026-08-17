@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="ja" data-palette="#2a78d6,#eb6834,#1baf7a">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>M&A・出資デイリーボード｜PE・商社・VC</title>
+<style>
+  :root{
+    color-scheme: light;
+    --surface-1:#fcfcfb; --page:#f9f9f7;
+    --ink-1:#0b0b0b; --ink-2:#52514e; --ink-3:#898781;
+    --grid:#e1e0d9; --rule:#c3c2b7;
+    --border:rgba(11,11,11,0.10);
+    --s-pe:#2a78d6; --s-sc:#eb6834; --s-vc:#1baf7a;
+    --chip-bg:#ffffff; --chip-on:#0b0b0b; --chip-on-ink:#ffffff;
+    --shadow:0 1px 2px rgba(11,11,11,0.04), 0 1px 8px rgba(11,11,11,0.04);
+  }
+  @media (prefers-color-scheme: dark){
+    :root:where(:not([data-theme="light"])){
+      color-scheme: dark;
+      --surface-1:#1a1a19; --page:#0d0d0d;
+      --ink-1:#ffffff; --ink-2:#c3c2b7; --ink-3:#898781;
+      --grid:#2c2c2a; --rule:#383835;
+      --border:rgba(255,255,255,0.10);
+      --s-pe:#3987e5; --s-sc:#d95926; --s-vc:#199e70;
+      --chip-bg:#1f1f1e; --chip-on:#ffffff; --chip-on-ink:#0d0d0d;
+      --shadow:none;
+    }
+  }
+  :root[data-theme="dark"]{
+    color-scheme: dark;
+    --surface-1:#1a1a19; --page:#0d0d0d;
+    --ink-1:#ffffff; --ink-2:#c3c2b7; --ink-3:#898781;
+    --grid:#2c2c2a; --rule:#383835;
+    --border:rgba(255,255,255,0.10);
+    --s-pe:#3987e5; --s-sc:#d95926; --s-vc:#199e70;
+    --chip-bg:#1f1f1e; --chip-on:#ffffff; --chip-on-ink:#0d0d0d;
+    --shadow:none;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    background:var(--page); color:var(--ink-1);
+    font-family:system-ui,-apple-system,"Segoe UI","Hiragino Sans","Noto Sans JP",sans-serif;
+    font-size:14px; line-height:1.6;
+  }
+  .wrap{max-width:1120px;margin:0 auto;padding:28px 20px 80px}
+
+  header.top{display:flex;align-items:flex-start;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:20px}
+  h1{font-size:21px;line-height:1.35;margin:0 0 6px;letter-spacing:.01em}
+  .sub{color:var(--ink-2);font-size:12.5px;margin:0}
+  .sub b{font-weight:600;color:var(--ink-1)}
+  .theme-btn{
+    background:var(--chip-bg);color:var(--ink-2);border:1px solid var(--border);
+    border-radius:999px;padding:6px 14px;font-size:12px;cursor:pointer;font-family:inherit;
+  }
+  .theme-btn:hover{color:var(--ink-1)}
+
+  /* stat tiles */
+  .tiles{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;margin-bottom:18px}
+  @media(max-width:720px){.tiles{grid-template-columns:repeat(2,1fr)}}
+  .tile{
+    background:var(--surface-1);border:1px solid var(--border);border-radius:12px;
+    padding:14px 16px;box-shadow:var(--shadow);
+  }
+  .tile .lab{display:flex;align-items:center;gap:7px;color:var(--ink-2);font-size:11.5px;margin-bottom:4px}
+  .dot{width:9px;height:9px;border-radius:2px;flex:0 0 auto}
+  .tile .val{font-size:28px;font-weight:600;letter-spacing:-.01em;line-height:1.1}
+  .tile .val span{font-size:13px;font-weight:400;color:var(--ink-3);margin-left:3px}
+
+  /* filters */
+  .filters{
+    background:var(--surface-1);border:1px solid var(--border);border-radius:12px;
+    padding:12px 14px;margin-bottom:16px;box-shadow:var(--shadow);
+    display:flex;flex-wrap:wrap;gap:10px;align-items:center;
+  }
+  .fgroup{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+  .fgroup > .glabel{font-size:11px;color:var(--ink-3);margin-right:2px}
+  .chip{
+    background:var(--chip-bg);border:1px solid var(--border);color:var(--ink-2);
+    border-radius:999px;padding:5px 12px;font-size:12px;cursor:pointer;font-family:inherit;
+    display:inline-flex;align-items:center;gap:6px;white-space:nowrap;
+  }
+  .chip:hover{color:var(--ink-1)}
+  .chip[aria-pressed="true"]{background:var(--chip-on);color:var(--chip-on-ink);border-color:var(--chip-on)}
+  .chip[aria-pressed="true"] .dot{box-shadow:0 0 0 1.5px var(--chip-on)}
+  select,input[type="search"]{
+    background:var(--chip-bg);border:1px solid var(--border);color:var(--ink-1);
+    border-radius:8px;padding:6px 10px;font-size:12.5px;font-family:inherit;min-width:150px;
+  }
+  input[type="search"]{min-width:190px}
+  .spacer{flex:1 1 auto}
+  .count{font-size:12px;color:var(--ink-2);white-space:nowrap}
+  .linkbtn{background:none;border:none;color:var(--ink-2);font-size:12px;cursor:pointer;text-decoration:underline;font-family:inherit;padding:0}
+  .linkbtn:hover{color:var(--ink-1)}
+
+  /* cards */
+  .daygroup{margin-top:22px}
+  .dayhead{
+    display:flex;align-items:baseline;gap:10px;padding:0 2px 8px;
+    border-bottom:1px solid var(--grid);margin-bottom:10px;
+  }
+  .dayhead .d{font-size:14px;font-weight:600;font-variant-numeric:tabular-nums}
+  .dayhead .w{font-size:11.5px;color:var(--ink-3)}
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:10px}
+  .card{
+    background:var(--surface-1);border:1px solid var(--border);border-radius:12px;
+    padding:14px 16px;box-shadow:var(--shadow);border-left:3px solid var(--sc);
+    display:flex;flex-direction:column;gap:8px;
+  }
+  .card .badge{
+    display:inline-flex;align-items:center;gap:6px;font-size:11px;color:var(--ink-2);
+    font-weight:600;letter-spacing:.02em;
+  }
+  .card .deal{font-size:14.5px;font-weight:600;line-height:1.5}
+  .card .deal .arrow{color:var(--ink-3);font-weight:400;margin:0 5px}
+  .amt{font-size:12.5px;color:var(--ink-1);font-variant-numeric:tabular-nums}
+  .amt.na{color:var(--ink-3)}
+  .tags{display:flex;flex-wrap:wrap;gap:5px}
+  .tag{
+    font-size:10.5px;color:var(--ink-2);background:var(--page);
+    border:1px solid var(--border);border-radius:5px;padding:2px 7px;white-space:nowrap;
+  }
+  .sm{font-size:12.5px;color:var(--ink-2);margin:0}
+  .ins{font-size:12.5px;color:var(--ink-2);margin:0;padding-left:9px;border-left:2px solid var(--grid)}
+  .ins b{color:var(--ink-1);font-weight:600;font-size:11px;letter-spacing:.02em}
+  .card a.src{font-size:11.5px;color:var(--ink-3);text-decoration:none;word-break:break-all}
+  .card a.src:hover{color:var(--ink-1);text-decoration:underline}
+
+  /* table view */
+  table{width:100%;border-collapse:collapse;background:var(--surface-1);border:1px solid var(--border);border-radius:12px;overflow:hidden;font-size:12.5px}
+  th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--grid);vertical-align:top}
+  th{color:var(--ink-2);font-weight:600;font-size:11.5px;background:var(--page)}
+  td.dt{font-variant-numeric:tabular-nums;white-space:nowrap;color:var(--ink-2)}
+  tr:last-child td{border-bottom:none}
+  .hidden{display:none}
+
+  .empty{padding:40px 0;text-align:center;color:var(--ink-3);font-size:13px}
+  footer.note{
+    margin-top:34px;padding-top:14px;border-top:1px solid var(--grid);
+    color:var(--ink-3);font-size:11.5px;line-height:1.8;
+  }
+  footer.note b{color:var(--ink-2)}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="top">
+    <div>
+      <h1>M&amp;A・出資デイリーボード<span style="color:var(--ink-3);font-weight:400"> ／ PE・商社・VC</span></h1>
+      <p class="sub">対象期間 <b id="win"></b>（直近30日）　最終更新 <b id="upd"></b></p>
+    </div>
+    <button class="theme-btn" id="themeBtn" type="button">◐ テーマ切替</button>
+  </header>
+
+  <div class="tiles" id="tiles"></div>
+
+  <div class="filters">
+    <div class="fgroup" id="sectorChips"><span class="glabel">セクター</span></div>
+    <select id="fIndustry"><option value="">業種（すべて）</option></select>
+    <select id="fType"><option value="">案件タイプ（すべて）</option></select>
+    <input type="search" id="fQuery" placeholder="社名・キーワード検索">
+    <span class="spacer"></span>
+    <span class="count" id="count"></span>
+    <button class="linkbtn" id="viewBtn" type="button">表形式で見る</button>
+    <button class="linkbtn" id="resetBtn" type="button">リセット</button>
+  </div>
+
+  <div id="cardView"></div>
+  <div id="tableView" class="hidden"></div>
+
+  <footer class="note">
+    <b>収集方法</b>　Web検索（各社IR／プレスリリース、PR TIMES、BRIDGE、M&amp;A Online、日本M&amp;Aセンター系ニュース等）を横断し、一次情報のURLが確認できた案件のみを収録しています。<br>
+    <b>カバレッジの限界</b>　網羅性は保証していません。日経電子版など自動取得できない媒体、非開示の中小案件、金額・投資家非公開のラウンドは取りこぼしがあります。意思決定に使う際は必ず一次情報をご確認ください。<br>
+    <span id="insightNote"><b>「着眼点」について</b>　各案件の着眼点コメントはAIによる仮説であり、当事者の公式見解ではありません。<br></span>
+    <span id="publicNote"></span>
+    <b>更新</b>　毎朝7:00（JST）に前日分を追加し、31日以上前の案件を落として直近30日を維持します。
+  </footer>
+
+</div>
+
+<script>
+const DATA = __DATA__;
+
+const SECTORS = [
+  {key:"PE",            label:"PEファンド",     css:"var(--s-pe)"},
+  {key:"商社・事業会社", label:"商社・事業会社", css:"var(--s-sc)"},
+  {key:"VC",            label:"VCラウンド",     css:"var(--s-vc)"}
+];
+const SC = {"PE":"var(--s-pe)","商社・事業会社":"var(--s-sc)","VC":"var(--s-vc)"};
+const WD = ["日","月","火","水","木","金","土"];
+
+const state = {sectors:new Set(SECTORS.map(s=>s.key)), industry:"", type:"", q:"", table:false};
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>"]/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+function fmtDate(iso){
+  const [y,m,d] = iso.split("-").map(Number);
+  return `${m}月${d}日`;
+}
+function weekday(iso){
+  const [y,m,d] = iso.split("-").map(Number);
+  return WD[new Date(Date.UTC(y,m-1,d)).getUTCDay()];
+}
+
+/* ---- init controls ---- */
+$("win").textContent = `${DATA.windowStart.replace(/-/g,"/")} – ${DATA.windowEnd.replace(/-/g,"/")}`;
+$("upd").textContent = DATA.updatedAtDisplay + " JST";
+
+const chipWrap = $("sectorChips");
+SECTORS.forEach(s=>{
+  const b = document.createElement("button");
+  b.className = "chip"; b.type = "button"; b.dataset.k = s.key;
+  b.setAttribute("aria-pressed","true");
+  b.innerHTML = `<span class="dot" style="background:${s.css}"></span>${esc(s.label)}`;
+  b.onclick = ()=>{
+    if(state.sectors.has(s.key)) state.sectors.delete(s.key); else state.sectors.add(s.key);
+    if(state.sectors.size===0) SECTORS.forEach(x=>state.sectors.add(x.key));
+    syncChips(); render();
+  };
+  chipWrap.appendChild(b);
+});
+function syncChips(){
+  [...chipWrap.querySelectorAll(".chip")].forEach(b=>{
+    b.setAttribute("aria-pressed", state.sectors.has(b.dataset.k) ? "true":"false");
+  });
+}
+
+function fillSelect(el, values, placeholder){
+  el.innerHTML = `<option value="">${placeholder}</option>` +
+    values.map(v=>`<option value="${esc(v)}">${esc(v)}</option>`).join("");
+}
+const uniq = k => [...new Set(DATA.deals.map(d=>d[k]))].sort((a,b)=>a.localeCompare(b,"ja"));
+fillSelect($("fIndustry"), uniq("industry"), "業種（すべて）");
+fillSelect($("fType"),     uniq("dealType"), "案件タイプ（すべて）");
+
+$("fIndustry").onchange = e => { state.industry = e.target.value; render(); };
+$("fType").onchange     = e => { state.type     = e.target.value; render(); };
+$("fQuery").oninput     = e => { state.q        = e.target.value.trim().toLowerCase(); render(); };
+$("resetBtn").onclick   = () => {
+  state.sectors = new Set(SECTORS.map(s=>s.key));
+  state.industry=""; state.type=""; state.q="";
+  $("fIndustry").value=""; $("fType").value=""; $("fQuery").value="";
+  syncChips(); render();
+};
+$("viewBtn").onclick = () => {
+  state.table = !state.table;
+  $("viewBtn").textContent = state.table ? "カード形式で見る" : "表形式で見る";
+  render();
+};
+$("themeBtn").onclick = () => {
+  const cur = document.documentElement.getAttribute("data-theme");
+  const sysDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+  const now = cur || (sysDark ? "dark" : "light");
+  document.documentElement.setAttribute("data-theme", now === "dark" ? "light" : "dark");
+};
+
+/* ---- render ---- */
+function filtered(){
+  return DATA.deals.filter(d=>{
+    if(!state.sectors.has(d.sector)) return false;
+    if(state.industry && d.industry !== state.industry) return false;
+    if(state.type && d.dealType !== state.type) return false;
+    if(state.q){
+      const hay = [d.buyer,d.target,d.summary,d.insight,d.industry,d.dealType,d.amount].join(" ").toLowerCase();
+      if(!hay.includes(state.q)) return false;
+    }
+    return true;
+  }).sort((a,b)=> a.date < b.date ? 1 : a.date > b.date ? -1 : 0);
+}
+
+function renderTiles(){
+  const all = DATA.deals;
+  const cnt = k => all.filter(d=>d.sector===k).length;
+  const tiles = [
+    {lab:"総案件数", css:"", val:all.length},
+    ...SECTORS.map(s=>({lab:s.label, css:s.css, val:cnt(s.key)}))
+  ];
+  $("tiles").innerHTML = tiles.map(t=>`
+    <div class="tile">
+      <div class="lab">${t.css?`<span class="dot" style="background:${t.css}"></span>`:""}${esc(t.lab)}</div>
+      <div class="val">${t.val}<span>件</span></div>
+    </div>`).join("");
+}
+
+function cardHTML(d){
+  const na = d.amount === "非公開" ? " na" : "";
+  return `
+  <article class="card" style="--sc:${SC[d.sector]}">
+    <div class="badge"><span class="dot" style="background:${SC[d.sector]}"></span>${esc(d.sector)}</div>
+    <div class="deal">${esc(d.buyer)}<span class="arrow">▸</span>${esc(d.target)}</div>
+    <div class="amt${na}">${esc(d.amount)}</div>
+    <div class="tags"><span class="tag">${esc(d.industry)}</span><span class="tag">${esc(d.dealType)}</span></div>
+    <p class="sm">${esc(d.summary)}</p>
+    ${d.insight ? `<p class="ins"><b>着眼点</b>　${esc(d.insight)}</p>` : ""}
+    <a class="src" href="${esc(d.url)}" target="_blank" rel="noopener">出典 ↗</a>
+  </article>`;
+}
+
+function renderCards(list){
+  if(!list.length){ $("cardView").innerHTML = `<div class="empty">条件に合う案件がありません。</div>`; return; }
+  const groups = [];
+  list.forEach(d=>{
+    const g = groups.find(g=>g.date===d.date);
+    if(g) g.items.push(d); else groups.push({date:d.date, items:[d]});
+  });
+  $("cardView").innerHTML = groups.map(g=>`
+    <section class="daygroup">
+      <div class="dayhead"><span class="d">${fmtDate(g.date)}</span><span class="w">(${weekday(g.date)})　${g.items.length}件</span></div>
+      <div class="cards">${g.items.map(cardHTML).join("")}</div>
+    </section>`).join("");
+}
+
+function renderTable(list){
+  if(!list.length){ $("tableView").innerHTML = `<div class="empty">条件に合う案件がありません。</div>`; return; }
+  $("tableView").innerHTML = `
+  <table>
+    <thead><tr><th>日付</th><th>セクター</th><th>買い手／投資家</th><th>対象</th><th>金額</th><th>業種</th><th>タイプ</th><th>出典</th></tr></thead>
+    <tbody>${list.map(d=>`
+      <tr>
+        <td class="dt">${esc(d.date)}</td>
+        <td><span class="dot" style="background:${SC[d.sector]};display:inline-block;margin-right:5px"></span>${esc(d.sector)}</td>
+        <td>${esc(d.buyer)}</td>
+        <td>${esc(d.target)}</td>
+        <td class="dt">${esc(d.amount)}</td>
+        <td>${esc(d.industry)}</td>
+        <td>${esc(d.dealType)}</td>
+        <td><a class="src" href="${esc(d.url)}" target="_blank" rel="noopener">↗</a></td>
+      </tr>`).join("")}</tbody>
+  </table>`;
+}
+
+function render(){
+  const list = filtered();
+  $("count").textContent = `${list.length} / ${DATA.deals.length} 件`;
+  $("cardView").classList.toggle("hidden", state.table);
+  $("tableView").classList.toggle("hidden", !state.table);
+  if(state.table) renderTable(list); else renderCards(list);
+}
+
+/* 公開版（着眼点なし）ではフッターの注記を差し替える */
+if(!DATA.deals.some(d=>d.insight)){
+  $("insightNote").style.display = "none";
+  if(DATA.publicNote) $("publicNote").innerHTML = `<b>本公開版について</b>　${esc(DATA.publicNote)}<br>`;
+}
+
+renderTiles();
+render();
+</script>
+</body>
+</html>
