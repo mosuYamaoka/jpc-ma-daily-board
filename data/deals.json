@@ -1,9 +1,81 @@
 {
-  "updatedAt": "2026-08-19T07:29:17+09:00",
-  "updatedAtDisplay": "2026/08/19 07:29",
+  "updatedAt": "2026-08-19T08:07:58+09:00",
+  "updatedAtDisplay": "2026/08/19 08:07",
   "windowStart": "2026-07-21",
   "windowEnd": "2026-08-19",
   "deals": [
+    {
+      "date": "2026-08-18",
+      "sector": "商社・事業会社",
+      "buyer": "三菱商事",
+      "target": "アドバンスト・メディカル・ケア（リゾートトラスト連結子会社）",
+      "amount": "非公開",
+      "industry": "医療・ヘルスケア",
+      "dealType": "資本業務提携（第三者割当増資引受）",
+      "summary": "三菱商事がリゾートトラスト子会社AMCに第三者割当増資で出資し資本業務提携",
+      "insight": "商社の海外網×高付加価値医療。医療ツーリズム輸出が構想から実装段階へ",
+      "url": "https://www.resorttrust.co.jp/ir/topics/3025/"
+    },
+    {
+      "date": "2026-08-18",
+      "sector": "商社・事業会社",
+      "buyer": "日本マリタイムバンク",
+      "target": "Nippon Maritime Finance India IFSC（新設合弁、出資比率60%）",
+      "amount": "20百万ルピー（約3,400万円）",
+      "industry": "金融",
+      "dealType": "合弁会社設立（連結子会社化）",
+      "summary": "インドGIFT Cityに船舶リース合弁を設立、出資60%で連結子会社化",
+      "insight": "IFSC優遇税制を活用しインド船籍案件へ先行アクセス、船舶金融の新市場開拓",
+      "url": "https://corporate.nmb.co.jp/wp-content/uploads/2026/08/20260818-1.pdf"
+    },
+    {
+      "date": "2026-08-18",
+      "sector": "商社・事業会社",
+      "buyer": "ロジザード",
+      "target": "ストラソルアーキテクト",
+      "amount": "非公開",
+      "industry": "IT・ソフトウェア",
+      "dealType": "株式100%取得（子会社化）",
+      "summary": "物流クラウドのロジザードが業務・ITコンサルのストラソルアーキテクトを完全子会社化",
+      "insight": "システム導入の川上に戦略コンサル機能を内製化し、単価と提案力を底上げ",
+      "url": "https://www.release.tdnet.info/inbs/140120260818522346.pdf"
+    },
+    {
+      "date": "2026-08-18",
+      "sector": "商社・事業会社",
+      "buyer": "WDI",
+      "target": "WDI Dim Sum Japan",
+      "amount": "非公開",
+      "industry": "小売・消費財",
+      "dealType": "連結子会社株式の追加取得（完全子会社化）",
+      "summary": "外食のWDIが連結子会社WDI Dim Sum Japanの全株式を取得し完全子会社化",
+      "insight": "北米添好運の持分譲渡と同時進行。点心事業を国内集中に再編する布陣",
+      "url": "https://www.release.tdnet.info/inbs/140120260818522209.pdf"
+    },
+    {
+      "date": "2026-08-18",
+      "sector": "VC",
+      "buyer": "Granite Integral Capital, タウンズ（共同リード）, こどもの森, ほくようスタートアップ1号, X&KSK, Unreasonable Group, ナガセ・フューチャー1号, 常陽銀行・北洋銀行・北陸銀行・名古屋銀行・東日本銀行・日本政策金融公庫（デット）",
+      "target": "Craif株式会社",
+      "amount": "約53億円",
+      "industry": "医療・ヘルスケア",
+      "dealType": "シリーズD",
+      "summary": "尿中マイクロRNAとAIによるがんリスク検査。シリーズDで約53億円を調達",
+      "insight": "エクイティ・セカンダリ・デット併用で希薄化抑制。米国R&Dと薬事が勝負所",
+      "url": "https://prtimes.jp/main/html/rd/p/000000431.000041883.html"
+    },
+    {
+      "date": "2026-08-18",
+      "sector": "VC",
+      "buyer": "Femto Partners（リード）, GxPartners, 九州大学, 創業者（森山哲雄・藤川茂紀）",
+      "target": "Carbon Xtract株式会社",
+      "amount": "非公開",
+      "industry": "エネルギー",
+      "dealType": "プレシリーズA（1stクローズ）",
+      "summary": "九大発、ガス分離膜でCO2を大気から直接回収するm-DAC技術を事業化",
+      "insight": "経営陣が議決権過半を持つMBO型設計。大学発技術の意思決定速度を確保",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000184495.html"
+    },
     {
       "date": "2026-08-17",
       "sector": "商社・事業会社",
