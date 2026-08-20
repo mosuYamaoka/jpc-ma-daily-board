@@ -1,9 +1,69 @@
 {
-  "updatedAt": "2026-08-20T07:29:44+09:00",
-  "updatedAtDisplay": "2026/08/20 07:29",
+  "updatedAt": "2026-08-20T10:41:17+09:00",
+  "updatedAtDisplay": "2026/08/20 10:41",
   "windowStart": "2026-07-22",
   "windowEnd": "2026-08-20",
   "deals": [
+    {
+      "date": "2026-08-19",
+      "sector": "PE",
+      "buyer": "ベインキャピタル（BCPE Neon Cayman LP）",
+      "target": "株式会社ボードルア（東証プライム・4413）",
+      "amount": "約869億円（TOB価格1株2,970円）",
+      "industry": "IT・ソフトウェア",
+      "dealType": "MBO・TOBによる非公開化",
+      "summary": "ネットワークインフラSIのボードルアがベインと組みMBO、TOB価格2,970円で上場廃止へ",
+      "insight": "AI基盤需要とIT人材確保難の局面で、非公開化により機動的な成長投資へ舵を切る典型例",
+      "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260818522642/"
+    },
+    {
+      "date": "2026-08-19",
+      "sector": "商社・事業会社",
+      "buyer": "タナベコンサルティンググループ",
+      "target": "Actus Consulting Group, Inc.（米ニューヨーク）",
+      "amount": "非公開",
+      "industry": "人材・サービス",
+      "dealType": "株式取得（94.2%）・子会社化",
+      "summary": "米国の人材・組織コンサルActusを株式94.2%取得で子会社化、日系企業の海外進出支援を強化",
+      "insight": "中堅企業向けコンサル大手が海外機能を買収で内製化。進出支援の自前化競争が加速",
+      "url": "https://www.tanabeconsulting-group.com/cms/wp-content/uploads/2026/08/85dca365ea123f65f689214f3ff13faf.pdf"
+    },
+    {
+      "date": "2026-08-19",
+      "sector": "商社・事業会社",
+      "buyer": "クックビズ",
+      "target": "ネットオン株式会社（採用マーケティングツール「採用係長」運営）",
+      "amount": "非公開",
+      "industry": "人材・サービス",
+      "dealType": "第三者割当増資引受・連結子会社化（議決権71.0%）",
+      "summary": "飲食人材のクックビズが採用SaaS「採用係長」のネットオンを71%出資で子会社化",
+      "insight": "債務超過先を増資引受で取り込みSaaS×顧客基盤を獲得。人材業界の小型ロールアップ",
+      "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260818522319/"
+    },
+    {
+      "date": "2026-08-19",
+      "sector": "VC",
+      "buyer": "DNX Ventures・Salesforce Ventures（共同リード）, 住商ベンチャー・パートナーズ, 金融機関（デット）",
+      "target": "株式会社Resilire",
+      "amount": "17.3億円（シリーズB 1stクローズ、累計約30.3億円）",
+      "industry": "IT・ソフトウェア",
+      "dealType": "シリーズB 1stクローズ",
+      "summary": "サプライチェーンリスク管理クラウドのResilireが17.3億円調達、海外導入を加速",
+      "insight": "地政学リスク常態化でSCM可視化が調達部門の必須投資に。海外展開の巧拙が勝敗を分ける",
+      "url": "https://prtimes.jp/main/html/rd/p/000000092.000044535.html"
+    },
+    {
+      "date": "2026-08-19",
+      "sector": "VC",
+      "buyer": "ジェネシア・ベンチャーズ（リード）, SMBC Edge, Delta X1号投資事業有限責任組合",
+      "target": "株式会社UnlimiTech",
+      "amount": "約1.8億円（シードラウンド）",
+      "industry": "IT・ソフトウェア",
+      "dealType": "シードラウンド",
+      "summary": "製造業向けAIワークフロー「DataFlow AI」のUnlimiTechがシードで約1.8億円調達",
+      "insight": "現場のExcel／暗黙知をノーコードで形式知化。技術継承需要が製造DXの新たな入口に",
+      "url": "https://prtimes.jp/main/html/rd/p/000000005.000169901.html"
+    },
     {
       "date": "2026-08-18",
       "sector": "商社・事業会社",
