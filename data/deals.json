@@ -1,9 +1,93 @@
 {
-  "updatedAt": "2026-08-20T10:41:17+09:00",
-  "updatedAtDisplay": "2026/08/20 10:41",
-  "windowStart": "2026-07-22",
-  "windowEnd": "2026-08-20",
+  "updatedAt": "2026-08-21T07:32:54+09:00",
+  "updatedAtDisplay": "2026/08/21 07:32",
+  "windowStart": "2026-07-23",
+  "windowEnd": "2026-08-21",
   "deals": [
+    {
+      "date": "2026-08-20",
+      "sector": "商社・事業会社",
+      "buyer": "三菱電機",
+      "target": "PCI Energy Solutions（米国）",
+      "amount": "約2,200億円（約14億ドル）",
+      "industry": "エネルギー",
+      "dealType": "完全子会社化（株式取得）",
+      "summary": "電力需給管理・最適化ソフト大手の米PCIを完全子会社化。同社過去最大規模の買収。",
+      "insight": "ハード売り切りからソフト・リカーリング収益への転換。米系人材のPMIが成否を分ける。",
+      "url": "https://www.mitsubishielectric.com/en/pr/2026/0820_ei/"
+    },
+    {
+      "date": "2026-08-20",
+      "sector": "商社・事業会社",
+      "buyer": "KPPグループホールディングス（仏子会社Antalis経由）",
+      "target": "Speidel GmbH（ドイツ・包装材加工）",
+      "amount": "非公開",
+      "industry": "製造",
+      "dealType": "株式取得（孫会社化）",
+      "summary": "重量物向け段ボール・緩衝材を手がける独Speidelの全株式を取得し孫会社化。",
+      "insight": "印刷用紙需要減を包装材で補う欧州ロールアップの継続。統合効果の可視化が課題。",
+      "url": "https://www.kpp-gr.com/ja/news/irnews/auto_20260820523779/pdfFile.pdf"
+    },
+    {
+      "date": "2026-08-20",
+      "sector": "商社・事業会社",
+      "buyer": "中国の現地民営企業（社名非開示）",
+      "target": "輪泰科斯（広州）汽車零配件有限公司（トピー工業孫会社）",
+      "amount": "非公開",
+      "industry": "製造",
+      "dealType": "持分譲渡（子会社の異動・事業再編）",
+      "summary": "トピー工業が中国スチールホイール孫会社の全持分を現地企業へ譲渡。9/30完了予定。",
+      "insight": "日系OEMの中国シェア低下に伴う不採算拠点の出口。中期計画の資本規律を体現。",
+      "url": "https://www.topy.co.jp/ja/news/irnews/auto_20260820523760/pdfFile.pdf"
+    },
+    {
+      "date": "2026-08-20",
+      "sector": "商社・事業会社",
+      "buyer": "タウンズ",
+      "target": "Asia Pathogenomics（台湾）",
+      "amount": "非公開",
+      "industry": "医療・ヘルスケア",
+      "dealType": "資本業務提携（出資）",
+      "summary": "台湾Asia Pathogenomicsへ出資し資本業務提携。メタゲノム次世代シーケンス事業で協業。",
+      "insight": "抗原検査依存からmNGSへの転換投資。保険償還と検査単価の設計が収益化の鍵。",
+      "url": "https://www.tauns.co.jp/wp-content/uploads/2026/08/20260820A.pdf"
+    },
+    {
+      "date": "2026-08-20",
+      "sector": "VC",
+      "buyer": "Headline Asia, JICベンチャー・グロース・インベストメンツ, Incubate Fund, あおぞら企業投資, SMBCベンチャーキャピタル, NES, ごうぎんキャピタル, 豊田合成, BIG Impact, Frontier Innovations, 三井住友海上キャピタル, 三菱UFJキャピタル, mint",
+      "target": "Letara株式会社",
+      "amount": "約26億円",
+      "industry": "製造",
+      "dealType": "プレシリーズA",
+      "summary": "北大発。プラスチック燃料のハイブリッドロケットエンジンを量産化へ。",
+      "insight": "衛星・防衛・政府から受注済み。安全性を軸に宇宙推進機の参入障壁を再定義。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000021.000109623.html"
+    },
+    {
+      "date": "2026-08-20",
+      "sector": "VC",
+      "buyer": "マーソ, Bio Engineering Capital, 田中邦裕, 緒方憲太郎, 井手武, 菅原道仁, 木島茂喜, 樋口優貴, Matěj Chmelo",
+      "target": "AI Dock株式会社",
+      "amount": "約2.6億円",
+      "industry": "医療・ヘルスケア",
+      "dealType": "シードラウンド",
+      "summary": "全身スキャン×AIの予防医療サービス「AI Dock」を正式提供開始。",
+      "insight": "人間ドック予約最大手を戦略株主化。検査後の行動変容まで囲う設計が要。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000022.000144993.html"
+    },
+    {
+      "date": "2026-08-20",
+      "sector": "VC",
+      "buyer": "みらい創造インベストメンツ, モバイル・インターネットキャピタル, フィデアキャピタル",
+      "target": "Trash Technologies株式会社",
+      "amount": "非公開",
+      "industry": "製造",
+      "dealType": "ラウンド非開示",
+      "summary": "廃電子機器からAI選別と独自精錬で有価金属を回収。都市鉱山を事業化。",
+      "insight": "小規模精錬の分散配置とDPP実装。資源安保・CE規制が需要の追い風。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000005.000147844.html"
+    },
     {
       "date": "2026-08-19",
       "sector": "PE",
@@ -855,66 +939,6 @@
       "summary": "GHG排出量の算定・削減・クレジット調達を一気通貫で提供。M&AとAI開発に充当。",
       "insight": "開示義務化を追い風にクライメートSaaSが統合プラットフォーム化。海外資本が主導。",
       "url": "https://thebridge.jp/2026/07/asuene-raises-series-d-funding-led-by-decarbonization-partners"
-    },
-    {
-      "date": "2026-07-22",
-      "sector": "商社・事業会社",
-      "buyer": "三井物産株式会社（Penske Corporationと共同）",
-      "target": "Penske Automotive Group, Inc.（米国）",
-      "amount": "1株210米ドル（PAG株式価値138億米ドル）",
-      "industry": "小売・消費財",
-      "dealType": "TOB・非公開化",
-      "summary": "米自動車小売大手PAGの浮動株買収に向け法的拘束力のない提案書を共同提出。",
-      "insight": "長年の持分法投資を完全支配へ。EV移行で揺れる販売網を非公開下で作り替える狙い。",
-      "url": "https://www.mitsui.com/jp/ja/release/2026/1253833_15330.html"
-    },
-    {
-      "date": "2026-07-22",
-      "sector": "VC",
-      "buyer": "MOL PLUS, 三井不動産&イノベーションファンド, 住友倉庫",
-      "target": "株式会社T2",
-      "amount": "50億円",
-      "industry": "物流",
-      "dealType": "シリーズB",
-      "summary": "レベル4自動運転トラックによる幹線輸送。技術・事業開発を加速し27年度商用化へ。",
-      "insight": "2024年問題後の運転手不足を荷主・海運・倉庫が自ら出資して埋める構図。",
-      "url": "https://thebridge.jp/2026/07/t2-raises-5-billion-yen-series-b-first-close"
-    },
-    {
-      "date": "2026-07-22",
-      "sector": "VC",
-      "buyer": "SMBC Edge, WiL, KDDI Open Innovation Fund 3号",
-      "target": "株式会社RevComm",
-      "amount": "33.5億円",
-      "industry": "IT・ソフトウェア",
-      "dealType": "シリーズB",
-      "summary": "音声解析AI「MiiTel」を提供。AIエージェント実装と海外進出に投資。",
-      "insight": "会話ログを経営データ化する動き。メガバンク系CVCが成長領域に本格参入。",
-      "url": "https://thebridge.jp/2026/07/revcomm-raises-series-b-first-close"
-    },
-    {
-      "date": "2026-07-22",
-      "sector": "VC",
-      "buyer": "日本郵政キャピタル, みずほキャピタル, SMBCベンチャーキャピタル",
-      "target": "株式会社SAZO",
-      "amount": "32.1億円",
-      "industry": "小売・消費財",
-      "dealType": "シリーズA",
-      "summary": "AI越境ECプラットフォーム運営。エージェンティックコマース基盤と物流網へ投資。",
-      "insight": "円安下の越境需要とAIエージェント購買の交点。名工大発の地方発ユニコーン候補。",
-      "url": "https://prtimes.jp/main/html/rd/p/000000013.000138802.html"
-    },
-    {
-      "date": "2026-07-22",
-      "sector": "VC",
-      "buyer": "グロービス・キャピタル・パートナーズ, ニッセイ・キャピタル, Minerva Growth Partners",
-      "target": "株式会社グローバルトラストネットワークス",
-      "amount": "約30億円",
-      "industry": "人材・サービス",
-      "dealType": "その他",
-      "summary": "外国人の住居・就労・金融を支える生活基盤プラットフォーム。M&Aと採用に充当。",
-      "insight": "労働力不足を外国人材で埋める国策の受け皿。生活インフラ握る企業が寡占化。",
-      "url": "https://thebridge.jp/2026/07/gtn-raises-3-billion-yen-for-foreign-resident-support-platform"
     }
   ]
 }
