@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-08-21T07:32:54+09:00",
-  "updatedAtDisplay": "2026/08/21 07:32",
-  "windowStart": "2026-07-23",
-  "windowEnd": "2026-08-21",
+  "updatedAt": "2026-08-24T07:27:46+09:00",
+  "updatedAtDisplay": "2026/08/24 07:27",
+  "windowStart": "2026-07-26",
+  "windowEnd": "2026-08-24",
   "deals": [
     {
       "date": "2026-08-20",
@@ -915,30 +915,6 @@
       "summary": "プラントベースフード「2foods」を展開。新商品開発と食×AI基盤構築に投資。",
       "insight": "代替タンパクの熱狂後、機能性食品への軸足移動。商社が販路側から補完。",
       "url": "https://thebridge.jp/2026/07/two-raises-5-hundred-million-yen-for-2foods"
-    },
-    {
-      "date": "2026-07-23",
-      "sector": "VC",
-      "buyer": "栖峰投資ワークス, みずほキャピタル, NANKAI NEXT Ventures",
-      "target": "株式会社Bestat",
-      "amount": "3.1億円",
-      "industry": "IT・ソフトウェア",
-      "dealType": "シリーズA",
-      "summary": "産業向け3Dデータ活用基盤「3D.Core」。アルゴリズム開発と海外展開に投資。",
-      "insight": "デジタルツイン×フィジカルAIの入口を押さえる。設備保全のデータ化が主戦場に。",
-      "url": "https://thebridge.jp/2026/07/bestat-closes-series-a-round-for-3d-core-platform"
-    },
-    {
-      "date": "2026-07-23",
-      "sector": "VC",
-      "buyer": "Decarbonization Partners, インキュベイトファンド, 環境エネルギー投資",
-      "target": "アスエネ株式会社",
-      "amount": "135億円",
-      "industry": "エネルギー",
-      "dealType": "シリーズC",
-      "summary": "GHG排出量の算定・削減・クレジット調達を一気通貫で提供。M&AとAI開発に充当。",
-      "insight": "開示義務化を追い風にクライメートSaaSが統合プラットフォーム化。海外資本が主導。",
-      "url": "https://thebridge.jp/2026/07/asuene-raises-series-d-funding-led-by-decarbonization-partners"
     }
   ]
 }
