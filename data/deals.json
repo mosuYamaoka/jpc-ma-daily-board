@@ -1,9 +1,105 @@
 {
-  "updatedAt": "2026-08-25T07:32:07+09:00",
-  "updatedAtDisplay": "2026/08/25 07:32",
-  "windowStart": "2026-07-27",
-  "windowEnd": "2026-08-25",
+  "updatedAt": "2026-08-26T07:32:56+09:00",
+  "updatedAtDisplay": "2026/08/26 07:32",
+  "windowStart": "2026-07-28",
+  "windowEnd": "2026-08-26",
   "deals": [
+    {
+      "date": "2026-08-25",
+      "sector": "商社・事業会社",
+      "buyer": "Orchestra Holdings（6533）",
+      "target": "Sharing Innovations（4178）",
+      "amount": "非公開（株式交換比率0.478）",
+      "industry": "IT・ソフトウェア",
+      "dealType": "完全子会社化（簡易株式交換）",
+      "summary": "Orchestra HDが上場子会社Sharing Innovationsを株式交換で完全子会社化。効力発生2026/11/30予定。",
+      "insight": "親子上場解消の潮流。DX人材と受託収益を内部化し資本効率とガバナンスを同時改善。",
+      "url": "https://finance.biggo.jp/news/jpx_tdnet_140120260825525597"
+    },
+    {
+      "date": "2026-08-25",
+      "sector": "商社・事業会社",
+      "buyer": "JRC（グロースM&Aカンパニー）",
+      "target": "トーカイコンベア",
+      "amount": "非公開",
+      "industry": "製造",
+      "dealType": "買収（全株式取得・子会社化）",
+      "summary": "JRCが同日新設した「グロースM&Aカンパニー」の第1号案件としてトーカイコンベア全株式を取得。",
+      "insight": "M&A専門部隊の常設化は非連続成長の型化。隣接市場への横展開を組織で担保する設計。",
+      "url": "https://maonline.jp/news/20260825b"
+    },
+    {
+      "date": "2026-08-25",
+      "sector": "商社・事業会社",
+      "buyer": "ミマキエンジニアリング",
+      "target": "クオリス",
+      "amount": "非公開",
+      "industry": "IT・ソフトウェア",
+      "dealType": "買収（全株式取得・子会社化）",
+      "summary": "ミマキエンジニアリングが組込システム・3DCG開発のクオリス全株式を取得し完全子会社化。",
+      "insight": "産業用プリンタのソフト内製化。ハード優位からソフト差別化へ移る製造業の典型例。",
+      "url": "https://maonline.jp/news/20260825c"
+    },
+    {
+      "date": "2026-08-25",
+      "sector": "商社・事業会社",
+      "buyer": "めちゃコミック（ブラックストーン傘下インフォコムグループ）",
+      "target": "WithLinks（Amazia<4424>子会社／Webコミック・webtoon制作）",
+      "amount": "非公開（株式90.9%）",
+      "industry": "IT・ソフトウェア",
+      "dealType": "子会社譲渡（PE傘下プラットフォームのアドオン買収）",
+      "summary": "AmaziaがWithLinks株式90.9%をめちゃコミックへ譲渡。2026/9/30完了予定。",
+      "insight": "配信PFが制作機能を内製化。売手はノンコア切離し、買手はIP垂直統合で調達力を確保。",
+      "url": "https://www.strike.co.jp/ma_news/detail.html?id=20260825a"
+    },
+    {
+      "date": "2026-08-25",
+      "sector": "商社・事業会社",
+      "buyer": "CSSホールディングス（2304）",
+      "target": "TechMagic",
+      "amount": "非公開",
+      "industry": "製造",
+      "dealType": "出資（戦略的資本参加）",
+      "summary": "CSSホールディングスが調理ロボット・業務自動化のTechMagicに出資すると適時開示。",
+      "insight": "労働集約型サービスの資本装備率向上。人手不足を機器投資で構造的に置換する布石。",
+      "url": "https://kabutan.jp/news/marketnews/?b=n202608251091"
+    },
+    {
+      "date": "2026-08-25",
+      "sector": "VC",
+      "buyer": "NTT（リード）, キヤノンマーケティングジャパン, 京セラ, 島津製作所, 三菱電機, 日本ガイシ, ANAホールディングス, KDDI, SBIホールディングス, 三菱地所（BRICKS FUND TOKYO）, 住商ベンチャー・パートナーズ, ニッセイ・キャピタル, みずほキャピタル, 三菱UFJキャピタル, SMBCベンチャーキャピタル, グローバル・ブレイン, DELIGHT VENTURES, 未来創生3号ファンド, モバイル・インターネットキャピタル, SBIインベストメント, 科学技術振興機構（JST）",
+      "target": "OptQC株式会社",
+      "amount": "70億円",
+      "industry": "IT・ソフトウェア",
+      "dealType": "シリーズA2",
+      "summary": "光量子コンピュータの実用化に向け、NTTリードで21社超が参画し総額70億円を調達。",
+      "insight": "通信・電機・商社が一斉参画。計算基盤の主権確保を狙う事実上の国策連合。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000033.000148901.html"
+    },
+    {
+      "date": "2026-08-25",
+      "sector": "VC",
+      "buyer": "JICベンチャー・グロース・インベストメンツ（リード）, DNX Ventures, 日本政策金融公庫",
+      "target": "株式会社HERP",
+      "amount": "約19億円",
+      "industry": "人材・サービス",
+      "dealType": "シリーズC",
+      "summary": "採用管理「HERP Hire」等を展開。3年で組織3倍を掲げ、累計調達額は34億円に。",
+      "insight": "ATS単体から採用インフラへの拡張競争。人員3倍の先行投資が損益分岐を左右する。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000132.000030340.html"
+    },
+    {
+      "date": "2026-08-25",
+      "sector": "VC",
+      "buyer": "千葉道場ファンド（リード）, 個人投資家1名",
+      "target": "株式会社プロッセルホールディングス",
+      "amount": "非公開（グループ累計2.5億円、デット含む）",
+      "industry": "製造",
+      "dealType": "シードラウンド",
+      "summary": "高専発。町工場のM&AとAIを組み合わせたロールアップでシードラウンドを実施。",
+      "insight": "事業承継難の町工場を束ねFAエンジニアリングOS化。設計見積を1週間→1時間へ短縮。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000062.000059560.html"
+    },
     {
       "date": "2026-08-24",
       "sector": "商社・事業会社",
@@ -1083,18 +1179,6 @@
       "summary": "家具・家電の月額サブスク「CLAS」。循環型事業体制と財務基盤の強化に充当。",
       "insight": "サーキュラーエコノミーは家電メーカー本体の在庫戦略と接続して初めて成立。",
       "url": "https://thebridge.jp/2026/07/clas-raises-1-38-billion-yen-from-panasonic-kurashi-visionary-fund"
-    },
-    {
-      "date": "2026-07-27",
-      "sector": "VC",
-      "buyer": "環境エネルギー投資, 住友商事",
-      "target": "株式会社TWO",
-      "amount": "5億円",
-      "industry": "食品・農業",
-      "dealType": "その他",
-      "summary": "プラントベースフード「2foods」を展開。新商品開発と食×AI基盤構築に投資。",
-      "insight": "代替タンパクの熱狂後、機能性食品への軸足移動。商社が販路側から補完。",
-      "url": "https://thebridge.jp/2026/07/two-raises-5-hundred-million-yen-for-2foods"
     }
   ]
 }
