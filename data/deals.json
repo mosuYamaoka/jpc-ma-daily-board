@@ -1,9 +1,69 @@
 {
-  "updatedAt": "2026-08-26T07:32:56+09:00",
-  "updatedAtDisplay": "2026/08/26 07:32",
-  "windowStart": "2026-07-28",
-  "windowEnd": "2026-08-26",
+  "updatedAt": "2026-08-27T12:01:22+09:00",
+  "updatedAtDisplay": "2026/08/27 12:01",
+  "windowStart": "2026-07-29",
+  "windowEnd": "2026-08-27",
   "deals": [
+    {
+      "date": "2026-08-26",
+      "sector": "商社・事業会社",
+      "buyer": "伊藤忠商事",
+      "target": "スイッチメディア",
+      "amount": "非公開",
+      "industry": "IT・ソフトウェア",
+      "dealType": "資本業務提携",
+      "summary": "伊藤忠商事がスイッチメディアと資本業務提携、TV視聴と購買データを連携し広告効果を可視化",
+      "insight": "小売データ基盤に商社が食い込み、リテールメディアで広告収益の川下拠点を確保する布石",
+      "url": "https://prtimes.jp/main/html/rd/p/000000116.000011256.html"
+    },
+    {
+      "date": "2026-08-26",
+      "sector": "商社・事業会社",
+      "buyer": "伊藤忠商事",
+      "target": "大為（蘇州）体育用品有限公司",
+      "amount": "非公開",
+      "industry": "小売・消費財",
+      "dealType": "資本参画（持分法適用会社化）",
+      "summary": "伊藤忠商事、アウトドアプロダクツの中国パートナーに資本参画し共同運営体制へ移行",
+      "insight": "ライセンス供与から共同経営へ格上げ、中国小売網とEC投資で5年後400億円売上を狙う",
+      "url": "https://www.itochu.co.jp/ja/news/press/2026/260826_2.html"
+    },
+    {
+      "date": "2026-08-26",
+      "sector": "商社・事業会社",
+      "buyer": "東京エネシス",
+      "target": "アラキ総産",
+      "amount": "非公開",
+      "industry": "建設・不動産",
+      "dealType": "子会社化（株式70%取得）",
+      "summary": "東京エネシス、電力・プラント工事のアラキ総産の株式70%を取得し子会社化",
+      "insight": "再エネ・通信工事へ領域拡大するため専門技術者を内製化、施工力不足をM&Aで補う典型例",
+      "url": "https://maonline.jp/news/20260826c"
+    },
+    {
+      "date": "2026-08-26",
+      "sector": "商社・事業会社",
+      "buyer": "サンネクスタグループ",
+      "target": "キミノミライ",
+      "amount": "非公開",
+      "industry": "人材・サービス",
+      "dealType": "完全子会社化（株式100%取得）",
+      "summary": "サンネクスタグループ、地方と東京を結ぶ人材マッチングのキミノミライを完全子会社化",
+      "insight": "人手不足の不動産管理業向けに人材マッチング機能を取り込みクロスセルを狙う",
+      "url": "https://newscast.jp/news/3468982"
+    },
+    {
+      "date": "2026-08-26",
+      "sector": "商社・事業会社",
+      "buyer": "トライアイズ",
+      "target": "LIMNO",
+      "amount": "6億円",
+      "industry": "製造",
+      "dealType": "完全子会社化（株式100%取得）",
+      "summary": "トライアイズ、電子機器OEMの老舗LIMNOの全株式を6億円で取得し完全子会社化",
+      "insight": "後継者不在の老舗製造業を吸収し、AI活用による付加価値転換を狙う事業承継型M&A",
+      "url": "https://maonline.jp/news/20260826a"
+    },
     {
       "date": "2026-08-25",
       "sector": "商社・事業会社",
@@ -99,6 +159,18 @@
       "summary": "高専発。町工場のM&AとAIを組み合わせたロールアップでシードラウンドを実施。",
       "insight": "事業承継難の町工場を束ねFAエンジニアリングOS化。設計見積を1週間→1時間へ短縮。",
       "url": "https://prtimes.jp/main/html/rd/p/000000062.000059560.html"
+    },
+    {
+      "date": "2026-08-25",
+      "sector": "VC",
+      "buyer": "グローバル・ブレイン（リード／TAKANAWA GATEWAY地球駅投資事業有限責任組合・明治安田未来共創投資事業有限責任組合）",
+      "target": "ミルンダ株式会社",
+      "amount": "非公開",
+      "industry": "医療・ヘルスケア",
+      "dealType": "ラウンド名非公開",
+      "summary": "RNA修飾解析でがん早期診断を開発するミルンダにグローバル・ブレインがリード出資",
+      "insight": "2025年設立のシード期バイオに大型CVCファンドが着地、診断領域の川上囲い込みが進む",
+      "url": "https://prtimes.jp/main/html/rd/p/000000612.000047342.html"
     },
     {
       "date": "2026-08-24",
@@ -1155,30 +1227,6 @@
       "summary": "Bluetoothで端末操作不要のハンズフリー認証。改札・決済向け量産準備に充当。",
       "insight": "改札・決済の摩擦ゼロ化。インフラ側の更新需要と大学系VCの技術目利きが交差。",
       "url": "https://thebridge.jp/2026/08/sinumy-raises-555-million-yen-pre-series-a-for-hands-free-authentication"
-    },
-    {
-      "date": "2026-07-28",
-      "sector": "PE",
-      "buyer": "ウォーバーグ・ピンカス（Ursa 4株式会社）",
-      "target": "株式会社ジェイ・エス・ビー",
-      "amount": "非公開",
-      "industry": "建設・不動産",
-      "dealType": "TOB・非公開化",
-      "summary": "ウォーバーグ・ピンカス傘下Ursa4によるジェイ・エス・ビーへのTOBが成立、議決権92.9%取得",
-      "insight": "学生マンションは安定収益と不動産の複合。外資PEが日本の住宅ストック運用に本格参入",
-      "url": "https://www.nihon-ma.co.jp/news/20260728_3480-23/"
-    },
-    {
-      "date": "2026-07-28",
-      "sector": "VC",
-      "buyer": "パナソニックくらしビジョナリーファンド, 静岡銀行, 商工組合中央金庫",
-      "target": "株式会社クラス",
-      "amount": "13.8億円",
-      "industry": "小売・消費財",
-      "dealType": "その他",
-      "summary": "家具・家電の月額サブスク「CLAS」。循環型事業体制と財務基盤の強化に充当。",
-      "insight": "サーキュラーエコノミーは家電メーカー本体の在庫戦略と接続して初めて成立。",
-      "url": "https://thebridge.jp/2026/07/clas-raises-1-38-billion-yen-from-panasonic-kurashi-visionary-fund"
     }
   ]
 }
