@@ -1,9 +1,117 @@
 {
-  "updatedAt": "2026-08-27T12:01:22+09:00",
-  "updatedAtDisplay": "2026/08/27 12:01",
-  "windowStart": "2026-07-29",
-  "windowEnd": "2026-08-27",
+  "updatedAt": "2026-08-28T15:02:04+09:00",
+  "updatedAtDisplay": "2026/08/28 15:02",
+  "windowStart": "2026-07-30",
+  "windowEnd": "2026-08-28",
   "deals": [
+    {
+      "date": "2026-08-27",
+      "sector": "PE",
+      "buyer": "FairCap Group（独系カーブアウト特化投資ファンド）",
+      "target": "AUTOBACS FRANCE S.A.S.（オートバックスセブン<9832>子会社）",
+      "amount": "名目価格（約186円／全株式）",
+      "industry": "小売・消費財",
+      "dealType": "カーブアウト（海外子会社株式譲渡）",
+      "summary": "オートバックスセブンが仏カー用品子会社8店舗を独カーブアウトファンドへ名目価格で譲渡",
+      "insight": "売上83億・営業赤字8億の欧州事業を撤退損を抑えて出口設計。国内アジア集中が鮮明",
+      "url": "https://maonline.jp/news/20260827d"
+    },
+    {
+      "date": "2026-08-27",
+      "sector": "商社・事業会社",
+      "buyer": "セイワホールディングス（523A）",
+      "target": "栄進電機（千葉県松戸市）",
+      "amount": "非公開",
+      "industry": "製造",
+      "dealType": "株式取得（完全子会社化）",
+      "summary": "設備・検査機器向け特殊ワイヤーハーネス製造の栄進電機の全株式を取得、9月1日付で子会社化",
+      "insight": "上場直後の事業承継ロールアップ。営業利益率10%超の優良中小を非公開額で確保",
+      "url": "https://maonline.jp/news/20260827a"
+    },
+    {
+      "date": "2026-08-27",
+      "sector": "商社・事業会社",
+      "buyer": "インテリックスホールディングス（463A）",
+      "target": "ティー・ディー・ハウジング（東京都墨田区）",
+      "amount": "非公開（取得価額未定）",
+      "industry": "建設・不動産",
+      "dealType": "株式取得（完全子会社化、26年12月実行予定）",
+      "summary": "東京城東〜千葉を地盤とする不動産売買・仲介のTDハウジング全株式を取得へ",
+      "insight": "中古再生と地場分譲の顧客基盤結合。価額未定のため条件確定とDXシナジーが焦点",
+      "url": "https://maonline.jp/news/20260827b"
+    },
+    {
+      "date": "2026-08-27",
+      "sector": "商社・事業会社",
+      "buyer": "テノ.ホールディングス（7037）",
+      "target": "ピジョンハーツ（ピジョン<7956>子会社）",
+      "amount": "16億900万円",
+      "industry": "人材・サービス",
+      "dealType": "株式取得（完全子会社化、27年1月予定）",
+      "summary": "ピジョン傘下の認可・企業内・院内保育運営会社を16.1億円で完全子会社化",
+      "insight": "大手のノンコア切離しの受け皿。都内運営ノウハウと大企業法人基盤を一括取得",
+      "url": "https://maonline.jp/news/20260827c"
+    },
+    {
+      "date": "2026-08-27",
+      "sector": "商社・事業会社",
+      "buyer": "SPK（7466）",
+      "target": "福田部品（札幌市）",
+      "amount": "非公開",
+      "industry": "物流",
+      "dealType": "株式取得（子会社化、26年10月予定）",
+      "summary": "自動車部品専門商社SPKが長年の取引先である札幌の部品卸・福田部品を子会社化",
+      "insight": "売上37.8億・純資産37.6億の実質資産型案件。北海道商圏と商品幅を同時確保",
+      "url": "https://maonline.jp/news/20260827e"
+    },
+    {
+      "date": "2026-08-27",
+      "sector": "商社・事業会社",
+      "buyer": "グリーンモンスター（157A）",
+      "target": "Sound-FinTechの金融ソリューション事業",
+      "amount": "2,000万円",
+      "industry": "IT・ソフトウェア",
+      "dealType": "事業譲受（26年9月予定）",
+      "summary": "金融ITコンサル・金融工学システム構築事業を2000万円で譲り受け",
+      "insight": "売上1.03億・営業益2580万の高収益事業を小額取得。投資学習アプリと連携",
+      "url": "https://maonline.jp/news/20260827f"
+    },
+    {
+      "date": "2026-08-27",
+      "sector": "VC",
+      "buyer": "代々木アニメーショングループ（リード）, みずほ銀行（融資）",
+      "target": "株式会社ネッキョウ",
+      "amount": "約2億円",
+      "industry": "IT・ソフトウェア",
+      "dealType": "創業ラウンド（第三者割当増資＋融資）",
+      "summary": "エンタメ向けデータ・AI基盤「AXプラットフォーム」を開発。設立3か月で約2億円",
+      "insight": "IPホルダー系の出資でファンID・購買データを囲い込む垂直統合型AXの実験",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000187855.html"
+    },
+    {
+      "date": "2026-08-27",
+      "sector": "VC",
+      "buyer": "日清オイリオグループ（リード）",
+      "target": "シコメルフードテック株式会社",
+      "amount": "非公開",
+      "industry": "食品・農業",
+      "dealType": "資本業務提携（戦略出資）",
+      "summary": "飲食店の仕込み外注DXプラットフォーム。日清オイリオが出資し資本業務提携",
+      "insight": "油脂大手の外食顧客網×仕込みOEM。食品メーカーによる外食チャネル囲い込み",
+      "url": "https://prtimes.jp/main/html/rd/p/000000043.000058297.html"
+    },
+    {
+      "date": "2026-08-27",
+      "sector": "VC",
+      "buyer": "大日本印刷（リード）",
+      "target": "株式会社JCCL",
+      "amount": "非公開",
+      "industry": "エネルギー",
+      "dealType": "戦略出資（事業会社直接出資）",
+      "summary": "膜分離によるCO2分離回収技術の九大発SU。DNPが出資、28年度実証機へ",
+      "insight": "精密塗工技術のGX素材転用。自社工場を初期実証市場にできる点が投資合理性",
+      "url": "https://prtimes.jp/main/html/rd/p/000001036.000069194.html"
+    },
     {
       "date": "2026-08-26",
       "sector": "商社・事業会社",
@@ -1203,30 +1311,6 @@
       "summary": "インフラメンテ企業のロールアップM&Aと経営支援。譲受と支援体制強化に充当。",
       "insight": "事業承継難＋インフラ老朽化。VC資金でPEモデルを回す新種プレイヤー。",
       "url": "https://thebridge.jp/2026/08/infratech-japan-holdings-raises-200-million-yen-for-rollup-ma"
-    },
-    {
-      "date": "2026-07-29",
-      "sector": "商社・事業会社",
-      "buyer": "関西ペイント株式会社",
-      "target": "Polisan Kansai Boya Sanayi ve Ticaret A.Ş.（トルコ）",
-      "amount": "非公開",
-      "industry": "製造",
-      "dealType": "完全子会社化",
-      "summary": "持分法適用のトルコ塗料合弁を追加取得し議決権100%の連結子会社化。",
-      "insight": "合弁解消による意思決定の高速化。新興国は共同出資から単独支配へ移る局面に入った。",
-      "url": "https://www.nihon-ma.co.jp/news/20260729_4613-14/"
-    },
-    {
-      "date": "2026-07-29",
-      "sector": "VC",
-      "buyer": "UTEC, 三菱UFJキャピタル, mint",
-      "target": "Sinumy株式会社",
-      "amount": "5.55億円",
-      "industry": "IT・ソフトウェア",
-      "dealType": "プレシリーズA",
-      "summary": "Bluetoothで端末操作不要のハンズフリー認証。改札・決済向け量産準備に充当。",
-      "insight": "改札・決済の摩擦ゼロ化。インフラ側の更新需要と大学系VCの技術目利きが交差。",
-      "url": "https://thebridge.jp/2026/08/sinumy-raises-555-million-yen-pre-series-a-for-hands-free-authentication"
     }
   ]
 }
