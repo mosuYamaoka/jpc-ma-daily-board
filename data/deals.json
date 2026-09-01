@@ -1,9 +1,33 @@
 {
-  "updatedAt": "2026-08-31T09:19:49+09:00",
-  "updatedAtDisplay": "2026/08/31 09:19",
-  "windowStart": "2026-08-02",
-  "windowEnd": "2026-08-31",
+  "updatedAt": "2026-09-01T10:09:19+09:00",
+  "updatedAtDisplay": "2026/09/01 10:09",
+  "windowStart": "2026-08-03",
+  "windowEnd": "2026-09-01",
   "deals": [
+    {
+      "date": "2026-08-31",
+      "sector": "商社・事業会社",
+      "buyer": "SBINM（SBIホールディングス）",
+      "target": "BASE（4477）",
+      "amount": "80億8900万円（1株340円）",
+      "industry": "IT・ソフトウェア",
+      "dealType": "TOB（持分法適用関連会社化）",
+      "summary": "BASEに1株340円でTOB開始。完全子会社化ではなく持分法適用関連会社化が目的。",
+      "insight": "非公開化せず関連会社化。SBI経済圏とEC・小規模事業者決済基盤の接続が狙い。",
+      "url": "https://maonline.jp/tobnews/2026_065a"
+    },
+    {
+      "date": "2026-08-31",
+      "sector": "商社・事業会社",
+      "buyer": "兼松（8020）",
+      "target": "Next Bharat Venture Fund-2（インド／Next Bharat Ventures運営）",
+      "amount": "非公開",
+      "industry": "その他",
+      "dealType": "ファンドへのLP出資",
+      "summary": "インドの起業家支援ファンド2号に出資。農業・金融包摂・SC・モビリティ領域。",
+      "insight": "商社のインド新興領域ソーシング。人員派遣併用で案件パイプライン化を狙う。",
+      "url": "https://kyodonewsprwire.jp/release/202608264758"
+    },
     {
       "date": "2026-08-28",
       "sector": "商社・事業会社",
