@@ -1,9 +1,57 @@
 {
-  "updatedAt": "2026-09-02T08:54:41+09:00",
-  "updatedAtDisplay": "2026/09/02 08:54",
-  "windowStart": "2026-08-04",
-  "windowEnd": "2026-09-02",
+  "updatedAt": "2026-09-03T08:56:21+09:00",
+  "updatedAtDisplay": "2026/09/03 08:56",
+  "windowStart": "2026-08-05",
+  "windowEnd": "2026-09-03",
   "deals": [
+    {
+      "date": "2026-09-02",
+      "sector": "商社・事業会社",
+      "buyer": "FPT Poland Sp. z o.o.（ベトナムFPTグループ）",
+      "target": "Nippon Seiki (Europe) B.V.（日本精機<7287>蘭子会社）のポーランド車載組込ソフト開発事業",
+      "amount": "非公開",
+      "industry": "IT・ソフトウェア",
+      "dealType": "事業譲渡（カーブアウト）",
+      "summary": "日本精機が欧州子会社の車載組込ソフト開発事業をベトナムFPTへ譲渡。10/2実行予定。",
+      "insight": "車載ソフトの内製維持を諦め外部パートナー化。HUD本業への資源集中と開発費固定費化が狙い。",
+      "url": "https://maonline.jp/news/20260902a"
+    },
+    {
+      "date": "2026-09-02",
+      "sector": "VC",
+      "buyer": "インキュベイトファンド（リード）, 三菱重工業",
+      "target": "メトロウェザー",
+      "amount": "15億円（1stクローズ）",
+      "industry": "その他",
+      "dealType": "シリーズB資金調達",
+      "summary": "京大発ドップラーライダー企業が物体検知用途の開発強化へ15億円を1stクローズ。",
+      "insight": "重工の事業会社出資が付く点が要諦。防衛・重要インフラ防護の国策連動型ディープテック。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000044.000059540.html"
+    },
+    {
+      "date": "2026-09-02",
+      "sector": "VC",
+      "buyer": "エン, Angel Bridge, オープンアップグループ, WiL, One Capital",
+      "target": "PeopleX",
+      "amount": "54.5億円",
+      "industry": "人材・サービス",
+      "dealType": "シリーズA資金調達",
+      "summary": "創業2年のHR系AI企業が54.5億円を調達、累計78.2億円。新製品Athenaを同日発表。",
+      "insight": "人材会社が投資家に並ぶ構図。HR SaaSは販路を持つ事業会社との資本連携が成長の律速。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000290.000139786.html"
+    },
+    {
+      "date": "2026-09-02",
+      "sector": "VC",
+      "buyer": "アニマルスピリッツ（リード）, ルート",
+      "target": "君のとなり",
+      "amount": "非公開",
+      "industry": "IT・ソフトウェア",
+      "dealType": "シリーズA資金調達",
+      "summary": "AI占いアプリ「うらっち」運営がシリーズA調達。みずほ銀行からの融資も併用。",
+      "insight": "エクイティ＋デットの併用は早期黒字化の自信の表れ。希薄化を抑えた資本構成が特徴。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000005.000151674.html"
+    },
     {
       "date": "2026-09-01",
       "sector": "PE",
@@ -1359,54 +1407,6 @@
       "summary": "クリエイターエコノミー型の音楽ライセンスプラットフォームをグローバル展開。",
       "insight": "生成AI時代に権利クリアな楽曲需要が急増。台湾系VCがアジア横断で先回り。",
       "url": "https://compalyze.co.jp/journal/weekly-funding-20260801"
-    },
-    {
-      "date": "2026-08-04",
-      "sector": "PE",
-      "buyer": "株式会社日本産業推進機構（NSSK3号ファンド）",
-      "target": "株式会社ケアメディカル",
-      "amount": "非公開",
-      "industry": "医療・ヘルスケア",
-      "dealType": "バイアウト",
-      "summary": "NSSK3号ファンドがサ高住28拠点運営のケアメディカル全株を取得しキトウ傘下に統合",
-      "insight": "介護は稼働率と単価が価値源泉。既存投資先を核にしたロールアップで規模の経済を追求",
-      "url": "https://nsskjapan.com/1656/"
-    },
-    {
-      "date": "2026-08-04",
-      "sector": "PE",
-      "buyer": "丸の内キャピタル株式会社（株式会社テラ）",
-      "target": "サツドラホールディングス株式会社",
-      "amount": "1株1,260円",
-      "industry": "小売・消費財",
-      "dealType": "TOB・非公開化",
-      "summary": "丸の内キャピタル出資のテラによるサツドラHDのMBO・TOBが成立し上場廃止へ",
-      "insight": "北海道地盤ドラッグ店の再編。人口減地域小売は非公開下での店舗・物流再構築が現実解",
-      "url": "https://www.nihon-ma.co.jp/news/20260804_3544-5/"
-    },
-    {
-      "date": "2026-08-04",
-      "sector": "VC",
-      "buyer": "Vertex Growth, UTEC, SMBCベンチャーキャピタル",
-      "target": "X Mile株式会社",
-      "amount": "31.7億円",
-      "industry": "人材・サービス",
-      "dealType": "シリーズC",
-      "summary": "物流・建設等ノンデスク産業の人材マッチングとDX。バーティカルAIとM&Aに投資。",
-      "insight": "人材紹介の収益でAI開発を賄うモデル。ノンデスク領域は寡占化フェーズ入り。",
-      "url": "https://thebridge.jp/2026/08/x-mile-raises-series-c-funding-for-non-desk-industry-platform"
-    },
-    {
-      "date": "2026-08-04",
-      "sector": "VC",
-      "buyer": "Asu Capital Partners, jig.jp, Brave group",
-      "target": "株式会社megli",
-      "amount": "1億円",
-      "industry": "その他",
-      "dealType": "シード",
-      "summary": "AIネイティブな音楽・映像制作を手掛けIP開発。制作ワークフロー高度化に充当。",
-      "insight": "生成AIで制作原価が崩れるエンタメ。IP保有側が投資家に回る垂直統合の初期例。",
-      "url": "https://thebridge.jp/2026/08/megli-raises-seed-funding-for-ai-entertainment-production"
     }
   ]
 }
