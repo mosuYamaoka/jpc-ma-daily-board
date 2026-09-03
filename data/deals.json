@@ -1,9 +1,45 @@
 {
-  "updatedAt": "2026-09-03T08:56:21+09:00",
-  "updatedAtDisplay": "2026/09/03 08:56",
-  "windowStart": "2026-08-05",
-  "windowEnd": "2026-09-03",
+  "updatedAt": "2026-09-04T08:52:59+09:00",
+  "updatedAtDisplay": "2026/09/04 08:52",
+  "windowStart": "2026-08-06",
+  "windowEnd": "2026-09-04",
   "deals": [
+    {
+      "date": "2026-09-03",
+      "sector": "商社・事業会社",
+      "buyer": "第一ライフグループ（第一生命ホールディングス<8750>）",
+      "target": "Fidelity Life Assurance Company（ニュージーランド生保）",
+      "amount": "約596億円",
+      "industry": "金融",
+      "dealType": "海外子会社化（株式取得）",
+      "summary": "第一ライフGがNZ生保Fidelity Lifeを約596億円で子会社化。移民増による保険需要を取り込む。",
+      "insight": "円安下でも先進国生保を取得。海外ポートフォリオ多様化と人口増国での成長取り込みが狙い。",
+      "url": "https://maonline.jp/news/20260903a"
+    },
+    {
+      "date": "2026-09-03",
+      "sector": "VC",
+      "buyer": "東北大学ベンチャーパートナーズ, JICベンチャー・グロース・インベストメンツ, MPower Partners, Red Capital 他",
+      "target": "SiccaNova Therapeutics",
+      "amount": "12.5億円",
+      "industry": "医療・ヘルスケア",
+      "dealType": "シリーズA資金調達",
+      "summary": "口腔乾燥症向け経口低分子XF8302を開発する東北大発創薬VCがシリーズAで12.5億円を調達。",
+      "insight": "大学発創薬にJIC・地銀系VCが結集。希少疾患×低分子で臨床開発の資金厚みが競争力の鍵。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000004.000171955.html"
+    },
+    {
+      "date": "2026-09-03",
+      "sector": "VC",
+      "buyer": "ALL STAR SAAS FUND（リード）, 農林中金キャピタル",
+      "target": "AUDER",
+      "amount": "4.5億円",
+      "industry": "物流",
+      "dealType": "シリーズA資金調達（ファーストクローズ）",
+      "summary": "スマホ画像認識のAI検品プラットフォームを展開するAUDERがシリーズA初回で4.5億円を調達。",
+      "insight": "食品物流の検品レス化は人手不足の急所。既存WMSへの後付け導入が普及速度を左右する。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000152258.html"
+    },
     {
       "date": "2026-09-02",
       "sector": "商社・事業会社",
@@ -1359,54 +1395,6 @@
       "summary": "営業特化AIエージェントの技術基盤を提供。大手との資本業務提携推進に充当。",
       "insight": "既存VCに加え事業会社13社が参加。SaaSは販路連合をつくる調達へ転換。",
       "url": "https://thebridge.jp/2026/08/knowledgework-raises-3-5-billion-yen-series-c-for-sales-ai-agent-os"
-    },
-    {
-      "date": "2026-08-05",
-      "sector": "PE",
-      "buyer": "株式会社日本企業成長投資（SK-03株式会社）",
-      "target": "CEホールディングス株式会社",
-      "amount": "約262億円",
-      "industry": "医療・ヘルスケア",
-      "dealType": "TOB・非公開化",
-      "summary": "日本企業成長投資がSK-03を通じ電子カルテのCEホールディングスをTOBで非公開化",
-      "insight": "電子カルテ市場は成熟期。AI・ICT再投資と人材育成を上場コスト外で進める構造改革型",
-      "url": "https://maonline.jp/news/20260805f"
-    },
-    {
-      "date": "2026-08-05",
-      "sector": "VC",
-      "buyer": "AZ-COM丸和ホールディングス, イグニション・ポイントベンチャーパートナーズ, 明治安田未来共創ファンド",
-      "target": "JPYC株式会社",
-      "amount": "10億円",
-      "industry": "金融",
-      "dealType": "シリーズB",
-      "summary": "日本円建てステーブルコイン「JPYC」を発行。開発・採用と関連事業推進に充当。",
-      "insight": "物流大手が出資する点が要諦。B2B決済コスト削減が実需の突破口になる。",
-      "url": "https://thebridge.jp/2026/08/jpyc-raises-series-b-extension-for-jpy-stablecoin"
-    },
-    {
-      "date": "2026-08-05",
-      "sector": "VC",
-      "buyer": "Sony Innovation Fund, グローバル・ブレイン, NANKAI NEXT Ventures",
-      "target": "FLASH株式会社",
-      "amount": "約13億円（シード累計）",
-      "industry": "その他",
-      "dealType": "シード",
-      "summary": "ショートドラマアプリ「Million」を運営。映像AIとIP・出版事業へ拡大。",
-      "insight": "中国発ショートドラマの国内移植期。CVCは配信より制作×AIの上流を取りに来た。",
-      "url": "https://prtimes.jp/main/html/rd/p/000000010.000151405.html"
-    },
-    {
-      "date": "2026-08-05",
-      "sector": "VC",
-      "buyer": "Cherubic Ventures",
-      "target": "SURF Music株式会社",
-      "amount": "12億円",
-      "industry": "その他",
-      "dealType": "プレシリーズA",
-      "summary": "クリエイターエコノミー型の音楽ライセンスプラットフォームをグローバル展開。",
-      "insight": "生成AI時代に権利クリアな楽曲需要が急増。台湾系VCがアジア横断で先回り。",
-      "url": "https://compalyze.co.jp/journal/weekly-funding-20260801"
     }
   ]
 }
