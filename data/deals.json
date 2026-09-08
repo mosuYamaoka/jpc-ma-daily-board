@@ -1,9 +1,81 @@
 {
-  "updatedAt": "2026-09-08T09:06:56+09:00",
-  "updatedAtDisplay": "2026/09/08 09:06",
-  "windowStart": "2026-08-10",
-  "windowEnd": "2026-09-08",
+  "updatedAt": "2026-09-09T08:57:20+09:00",
+  "updatedAtDisplay": "2026/09/09 08:57",
+  "windowStart": "2026-08-11",
+  "windowEnd": "2026-09-09",
   "deals": [
+    {
+      "date": "2026-09-08",
+      "sector": "商社・事業会社",
+      "buyer": "ライフコーポレーション（8194）",
+      "target": "アルビス（7475）",
+      "amount": "約263億円（1株3,780円でTOB）",
+      "industry": "小売・消費財",
+      "dealType": "TOB（連結子会社化）",
+      "summary": "ライフがアルビスに1株3780円でTOB、最大263億円で連結子会社化",
+      "insight": "三菱商事系SM再編。北陸・中京の店舗網と物流統合効果の取り込みが焦点",
+      "url": "https://www.nikkei.com/article/DGXZQOUC088G40Y6A900C2000000/"
+    },
+    {
+      "date": "2026-09-08",
+      "sector": "商社・事業会社",
+      "buyer": "エクサウィザーズ（4259）",
+      "target": "ele&company",
+      "amount": "7億400万円",
+      "industry": "IT・ソフトウェア",
+      "dealType": "株式取得（完全子会社化）",
+      "summary": "AI企業エクサウィザーズが現場伴走型コンサルのele&companyを7億円で子会社化",
+      "insight": "AI導入支援に人的コンサル機能を内製化、AI企業のサービス拡張策の好例",
+      "url": "https://prtimes.jp/main/html/rd/p/000000491.000030192.html"
+    },
+    {
+      "date": "2026-09-08",
+      "sector": "商社・事業会社",
+      "buyer": "フルサト・マルカホールディングス（7128、子会社経由）",
+      "target": "EUREKA ROBOTICS PTE. LTD.（シンガポール）",
+      "amount": "非公開",
+      "industry": "製造",
+      "dealType": "追加出資",
+      "summary": "機械商社のフルサト・マルカがシンガポールのロボット新興に追加出資",
+      "insight": "商社による海外ロボティクス新興への継続出資、既存機械事業との融合が狙い",
+      "url": "https://tdnet-pdf.kabutan.jp/20260908/140120260908532845.pdf"
+    },
+    {
+      "date": "2026-09-08",
+      "sector": "商社・事業会社",
+      "buyer": "旭情報サービス（9799）",
+      "target": "Think株式会社",
+      "amount": "非公開",
+      "industry": "IT・ソフトウェア",
+      "dealType": "株式取得完了（子会社化）",
+      "summary": "ITサービスの旭情報サービスがThink株式会社の株式取得を完了、子会社化",
+      "insight": "中堅ITによる小型ボルトオンM&A。人材・技術獲得型の再編が底流に",
+      "url": "https://tdnet-pdf.kabutan.jp/20260908/140120260908532858.pdf"
+    },
+    {
+      "date": "2026-09-08",
+      "sector": "VC",
+      "buyer": "KRAFTIA Innovation Fund（Spiral Innovation Partners運用）（リード）, 東海研究開発1号投資事業有限責任組合（CJIC）, 有限会社柴田熔接工作所",
+      "target": "POLASTECH株式会社",
+      "amount": "1.4億円（シード2ラウンド）",
+      "industry": "製造",
+      "dealType": "シード2ラウンド／第三者割当増資",
+      "summary": "吸着ヒートポンプ技術でデータセンター排熱活用を手がけるPOLASTECHが1.4億円調達",
+      "insight": "DC冷却需要の拡大を背景に、素材系ディープテックへ地域系ファンドも資金供給",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000179058.html"
+    },
+    {
+      "date": "2026-09-08",
+      "sector": "VC",
+      "buyer": "SBIインベストメント（SBIグループ）（リード）",
+      "target": "株式会社GeoDreams",
+      "amount": "非公開（プレシリーズA）",
+      "industry": "エネルギー",
+      "dealType": "プレシリーズAラウンド",
+      "summary": "次世代型（クローズドループ）地熱発電のGeoDreamsがSBIグループから調達",
+      "insight": "脱炭素電源としての地熱に大手金融系VCが参入。政策資金との連動が鍵",
+      "url": "https://prtimes.jp/main/html/rd/p/000000017.000162716.html"
+    },
     {
       "date": "2026-09-07",
       "sector": "商社・事業会社",
@@ -1407,18 +1479,6 @@
       "summary": "次世代スマホ向けイメージセンサー量産へ熊本に合弁を設立、2029年量産開始。",
       "insight": "センサー真下の演算層に先端ロジックが必須化。垂直統合からTSMC依存の分業へ転換。",
       "url": "https://www.sony-semicon.com/ja/news/2026/2026081101.html"
-    },
-    {
-      "date": "2026-08-10",
-      "sector": "商社・事業会社",
-      "buyer": "住友商事株式会社",
-      "target": "Gwynt Glas（英国セルティック海 浮体式洋上風力事業会社）",
-      "amount": "非公開",
-      "industry": "エネルギー",
-      "dealType": "持分取得",
-      "summary": "英セルティック海の約1.5GW浮体式洋上風力事業に33.3%出資、初の浮体式参画。",
-      "insight": "着床式が飽和する中、次の技術世代で先行者利益を狙う。EDF・ESBとのリスク分担型。",
-      "url": "https://www.sumitomocorp.com/ja/jp/news/release/2026/group/21350"
     }
   ]
 }
