@@ -1,9 +1,45 @@
 {
-  "updatedAt": "2026-09-09T08:57:20+09:00",
-  "updatedAtDisplay": "2026/09/09 08:57",
-  "windowStart": "2026-08-11",
-  "windowEnd": "2026-09-09",
+  "updatedAt": "2026-09-10T08:57:34+09:00",
+  "updatedAtDisplay": "2026/09/10 08:57",
+  "windowStart": "2026-08-12",
+  "windowEnd": "2026-09-10",
   "deals": [
+    {
+      "date": "2026-09-09",
+      "sector": "PE",
+      "buyer": "MBKパートナーズ（買付主体MP-2606株式会社）",
+      "target": "シェアリングテクノロジー（3989）",
+      "amount": "約390億7,700万円（1株1,550円）",
+      "industry": "IT・ソフトウェア",
+      "dealType": "TOBによる完全子会社化・非公開化",
+      "summary": "MBKパートナーズがシェアリングテクノロジーをTOBで非公開化。買付総額約391億円。",
+      "insight": "生活サービス集客プラットフォームの自社施工化とAI対応にPEの実行力を投入する成長型バイアウト",
+      "url": "https://www.release.tdnet.info/inbs/140120260909533311.pdf"
+    },
+    {
+      "date": "2026-09-09",
+      "sector": "商社・事業会社",
+      "buyer": "東京エネシス（1945）",
+      "target": "扶桑（茨城県東海村・原発メンテナンス特化の人材派遣）",
+      "amount": "非公開",
+      "industry": "人材・サービス",
+      "dealType": "株式取得（子会社化）",
+      "summary": "東京エネシスが原発メンテナンス特化の人材派遣会社・扶桑を株式取得し子会社化。",
+      "insight": "原発再稼働と廃炉工事の需要増を睨み、希少な専門技能人材を先回りで内製確保する布石",
+      "url": "https://www.qtes.co.jp/ir/document/pdf/others_20260909_6aa0fb432ad8c.pdf"
+    },
+    {
+      "date": "2026-09-09",
+      "sector": "VC",
+      "buyer": "日本政策投資銀行, 住友重機械工業, 三菱瓦斯化学, 昭和機械商事, アルバクロス, ほくほくキャピタル, 個人投資家",
+      "target": "アルバトロス・テクノロジー",
+      "amount": "2.5億円",
+      "industry": "エネルギー",
+      "dealType": "プレシリーズB（第三者割当増資）",
+      "summary": "浮体式洋上風車の長崎県海上実証拡大へプレシリーズBで2.5億円を調達。累計約7.7億円。",
+      "insight": "政策金融と重工・化学の事業会社が並走し、実証段階の資金ギャップを産業資本が補完",
+      "url": "https://prtimes.jp/main/html/rd/p/000000008.000106573.html"
+    },
     {
       "date": "2026-09-08",
       "sector": "商社・事業会社",
@@ -195,6 +231,18 @@
       "summary": "就労困難者DX「NEXT HERO」のVALT JAPANが三菱地所系CVCから追加出資を受領",
       "insight": "丸の内拠点の実績評価による再投資。不動産×福祉の拠点モデル横展開が論点",
       "url": "https://prtimes.jp/main/html/rd/p/000000035.000135365.html"
+    },
+    {
+      "date": "2026-09-07",
+      "sector": "商社・事業会社",
+      "buyer": "オリックス",
+      "target": "泰平商事（建設機械専門商社）",
+      "amount": "非公開",
+      "industry": "建設・不動産",
+      "dealType": "株式取得（全株式取得・完全子会社化）",
+      "summary": "オリックスが建機商社の泰平商事の全株式を取得。2026年10月までに完了予定。",
+      "insight": "移動式クレーン等の販売・レンタル網を取り込み、リース資産の稼働率と中古出口を内製化",
+      "url": "https://www.orix.co.jp/grp/company/newsroom/newsrelease/260907_ORIXJ.html"
     },
     {
       "date": "2026-09-04",
@@ -1467,18 +1515,6 @@
       "summary": "日本アジア投資の循環経済ファンドが第三者割当でアミタHD株式9.9%を取得し業務提携",
       "insight": "事業共創型のマイノリティ出資。資源循環・GX領域に投資マネーが流入し始めた兆候",
       "url": "https://www.nihon-ma.co.jp/news/20260812_2195-10/"
-    },
-    {
-      "date": "2026-08-11",
-      "sector": "商社・事業会社",
-      "buyer": "ソニーセミコンダクタソリューションズ株式会社",
-      "target": "Advanced Vision Semiconductor Manufacturing株式会社（TSMCとの合弁）",
-      "amount": "計7,470億円（ソニー約4,650億円、TSMC約2,820億円）",
-      "industry": "製造",
-      "dealType": "合弁設立",
-      "summary": "次世代スマホ向けイメージセンサー量産へ熊本に合弁を設立、2029年量産開始。",
-      "insight": "センサー真下の演算層に先端ロジックが必須化。垂直統合からTSMC依存の分業へ転換。",
-      "url": "https://www.sony-semicon.com/ja/news/2026/2026081101.html"
     }
   ]
 }
