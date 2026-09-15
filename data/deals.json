@@ -1,9 +1,45 @@
 {
-  "updatedAt": "2026-09-14T09:00:18+09:00",
-  "updatedAtDisplay": "2026/09/14 09:00",
-  "windowStart": "2026-08-16",
-  "windowEnd": "2026-09-14",
+  "updatedAt": "2026-09-15T09:25:11+09:00",
+  "updatedAtDisplay": "2026/09/15 09:25",
+  "windowStart": "2026-08-17",
+  "windowEnd": "2026-09-15",
   "deals": [
+    {
+      "date": "2026-09-14",
+      "sector": "商社・事業会社",
+      "buyer": "光通信（9435）／MBKパートナーズ／NECキャピタルソリューション系ファンド",
+      "target": "レオパレス21（8848）",
+      "amount": "最大2,676億円（1株1,000円）",
+      "industry": "建設・不動産",
+      "dealType": "TOBによる非公開化",
+      "summary": "光通信とファンド2社がレオパレス21に1株1,000円でTOB、非公開化を目指す。",
+      "insight": "14日終値比45%プレミアム。光通信の顧客網×賃貸物件への商材クロスセルが収益源。",
+      "url": "https://www.release.tdnet.info/inbs/140120260914536244.pdf"
+    },
+    {
+      "date": "2026-09-14",
+      "sector": "VC",
+      "buyer": "Japan Venture Capital, SBI新生企業投資, i-nest capital, GoAhead Ventures, 生保イノベーションファンド, SBI岡三アルタナティブ投資, BIG Impact, 中信証券投資",
+      "target": "AOI Biosciences株式会社",
+      "amount": "約5億円",
+      "industry": "医療・ヘルスケア",
+      "dealType": "第三者割当増資・セカンダリー",
+      "summary": "抗β2GPIネオセルフ抗体検査とアロステリック創薬の拡大に向け約5億円を調達。",
+      "insight": "検査と創薬の二正面展開は資金効率が論点。パイプライン優先順位の精査が焦点。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000038.000075666.html"
+    },
+    {
+      "date": "2026-09-14",
+      "sector": "VC",
+      "buyer": "Mercuria Investment（リード）, Coral Capital, Spiral Innovation Partners",
+      "target": "株式会社Kiviaq",
+      "amount": "1.5億円",
+      "industry": "医療・ヘルスケア",
+      "dealType": "プレシリーズA資金調達",
+      "summary": "処方薬を即日配送するダークストア型薬局モデルで1.5億円を調達。",
+      "insight": "薬機法対応と配送網構築の同時進行が資本効率とスケール速度を左右する。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000026.000165674.html"
+    },
     {
       "date": "2026-09-11",
       "sector": "商社・事業会社",
