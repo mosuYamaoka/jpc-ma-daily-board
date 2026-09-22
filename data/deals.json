@@ -1,9 +1,21 @@
 {
-  "updatedAt": "2026-09-21T09:00:50+09:00",
-  "updatedAtDisplay": "2026/09/21 09:00",
-  "windowStart": "2026-08-23",
-  "windowEnd": "2026-09-21",
+  "updatedAt": "2026-09-22T09:40:04+09:00",
+  "updatedAtDisplay": "2026/09/22 09:40",
+  "windowStart": "2026-08-24",
+  "windowEnd": "2026-09-22",
   "deals": [
+    {
+      "date": "2026-09-21",
+      "sector": "商社・事業会社",
+      "buyer": "三菱商事",
+      "target": "アヤラ・コーポレーション（フィリピン財閥持株会社）",
+      "amount": "約445億ペソ（約1,200億円／約7.10億ドル）",
+      "industry": "その他",
+      "dealType": "追加出資（第三者割当増資＋相対取得＋公開買付け）／持分法適用会社化",
+      "summary": "三菱商事がアヤラへ約445億ペソ追加出資。経済持分4.7%→15%、議決権20%で持分法適用会社化。",
+      "insight": "資源依存脱却と東南アジア内需の取り込み。財閥への少数出資で面的に事業機会を囲う型。",
+      "url": "https://ayala.com/ayala-and-mitsubishi-deepen-strategic-alliance-to-support-long-term-growth-in-the-philippines/"
+    },
     {
       "date": "2026-09-18",
       "sector": "PE",
