@@ -1,7 +1,9 @@
 {
-  "dateLabel": "9月24日",
-  "newCount": 0,
-  "newBySector": {},
-  "totalCount": 131,
-  "updatedAtDisplay": "2026/09/24 09:20"
+  "dateLabel": "9月25日",
+  "newCount": 9,
+  "newBySector": {
+    "商社・事業会社": 9
+  },
+  "totalCount": 135,
+  "updatedAtDisplay": "2026/09/25 09:22"
 }
