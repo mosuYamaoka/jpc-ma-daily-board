@@ -1,9 +1,45 @@
 {
-  "updatedAt": "2026-09-29T10:41:12+09:00",
-  "updatedAtDisplay": "2026/09/29 10:41",
-  "windowStart": "2026-08-31",
-  "windowEnd": "2026-09-29",
+  "updatedAt": "2026-09-30T10:10:30+09:00",
+  "updatedAtDisplay": "2026/09/30 10:10",
+  "windowStart": "2026-09-01",
+  "windowEnd": "2026-09-30",
   "deals": [
+    {
+      "date": "2026-09-29",
+      "sector": "商社・事業会社",
+      "buyer": "三昌物産",
+      "target": "からたまや（魁力屋の中食事業を新設分割）",
+      "amount": "非公開",
+      "industry": "食品・農業",
+      "dealType": "事業譲渡（新設分割＋株式譲渡）",
+      "summary": "SAKIGAKE HD傘下の魁力屋が中食事業を新設分割し、全株式を三昌物産へ譲渡（契約締結9/29）",
+      "insight": "ラーメン外食の非中核の中食部門を切出し。買手は商社系で惣菜ブランド獲得と販路拡大が焦点",
+      "url": "https://www.nihon-ma.co.jp/news/20260929_5891-3/"
+    },
+    {
+      "date": "2026-09-29",
+      "sector": "VC",
+      "buyer": "Canon Marketing Japan MIRAIファンド（グローバル・ブレイン運営）【リード】",
+      "target": "WAYFARER",
+      "amount": "非公開",
+      "industry": "IT・ソフトウェア",
+      "dealType": "シリーズA資金調達",
+      "summary": "ホテル運営とAI運営基盤「Materia Connect」を展開。第三者割当増資でシリーズAを実施",
+      "insight": "運営実績を持つ自社ホテルでSaaSを磨く垂直統合型。外販の成否が評価の分かれ目",
+      "url": "https://prtimes.jp/main/html/rd/p/000000021.000096719.html"
+    },
+    {
+      "date": "2026-09-29",
+      "sector": "VC",
+      "buyer": "KUSABI（KUSABI1号投資事業有限責任組合）【リード】",
+      "target": "knewit",
+      "amount": "非公開（累計調達額2.9億円）",
+      "industry": "IT・ソフトウェア",
+      "dealType": "プレシリーズA資金調達",
+      "summary": "受発注・納品業務向けにコンサル・AIエージェント・BPOを提供。第三者割当増資を実施",
+      "insight": "人手依存の取引実行業務をAI+BPOで代替。製品と役務の収益比率の推移が論点",
+      "url": "https://prtimes.jp/main/html/rd/p/000000029.000112491.html"
+    },
     {
       "date": "2026-09-28",
       "sector": "PE",
@@ -1731,30 +1767,6 @@
       "summary": "IPマーケティングのWunderbarがベンチャーデットでシリーズAを延長、累計10億円超",
       "insight": "地銀・公庫のデット活用で希薄化を回避。成長期の資本政策の選択肢が拡大",
       "url": "https://prtimes.jp/main/html/rd/p/000000220.000082736.html"
-    },
-    {
-      "date": "2026-08-31",
-      "sector": "商社・事業会社",
-      "buyer": "SBINM（SBIホールディングス）",
-      "target": "BASE（4477）",
-      "amount": "80億8900万円（1株340円）",
-      "industry": "IT・ソフトウェア",
-      "dealType": "TOB（持分法適用関連会社化）",
-      "summary": "BASEに1株340円でTOB開始。完全子会社化ではなく持分法適用関連会社化が目的。",
-      "insight": "非公開化せず関連会社化。SBI経済圏とEC・小規模事業者決済基盤の接続が狙い。",
-      "url": "https://maonline.jp/tobnews/2026_065a"
-    },
-    {
-      "date": "2026-08-31",
-      "sector": "商社・事業会社",
-      "buyer": "兼松（8020）",
-      "target": "Next Bharat Venture Fund-2（インド／Next Bharat Ventures運営）",
-      "amount": "非公開",
-      "industry": "その他",
-      "dealType": "ファンドへのLP出資",
-      "summary": "インドの起業家支援ファンド2号に出資。農業・金融包摂・SC・モビリティ領域。",
-      "insight": "商社のインド新興領域ソーシング。人員派遣併用で案件パイプライン化を狙う。",
-      "url": "https://kyodonewsprwire.jp/release/202608264758"
     }
   ]
 }
