@@ -1,9 +1,105 @@
 {
-  "updatedAt": "2026-10-01T10:09:58+09:00",
-  "updatedAtDisplay": "2026/10/01 10:09",
-  "windowStart": "2026-09-02",
-  "windowEnd": "2026-10-01",
+  "updatedAt": "2026-10-02T10:29:02+09:00",
+  "updatedAtDisplay": "2026/10/02 10:29",
+  "windowStart": "2026-09-03",
+  "windowEnd": "2026-10-02",
   "deals": [
+    {
+      "date": "2026-10-01",
+      "sector": "商社・事業会社",
+      "buyer": "パン・パシフィック・インターナショナルホールディングス(PPIH)",
+      "target": "日本トイザらス(国内約150店舗の事業)",
+      "amount": "非公開",
+      "industry": "小売・消費財",
+      "dealType": "事業譲受(民事再生スポンサー)",
+      "summary": "ドンキ運営のPPIHが民事再生中の日本トイザらス事業を承継。約150店舗と雇用を維持",
+      "insight": "少子化下でも乳幼児・ファミリー層の接点獲得を優先。再生型M&Aで店舗網を低コスト取得",
+      "url": "https://www.daily.co.jp/society/economics/2026/10/01/0020881757.shtml"
+    },
+    {
+      "date": "2026-10-01",
+      "sector": "商社・事業会社",
+      "buyer": "大日本印刷",
+      "target": "協和ファーマケミカル(協和発酵バイオ保有全株)",
+      "amount": "非公開",
+      "industry": "医療・ヘルスケア",
+      "dealType": "株式取得完了(子会社化)",
+      "summary": "DNPが協和ファーマケミカル全株の取得を完了。2027年2月にDNPファーマケミカルへ社名変更",
+      "insight": "原薬・製剤製造とDNPの強みを束ねCDMO一貫体制を構築。創薬初期からの受託を狙う",
+      "url": "https://prtimes.jp/main/html/rd/p/000001052.000069194.html"
+    },
+    {
+      "date": "2026-10-01",
+      "sector": "商社・事業会社",
+      "buyer": "NOK・イーグル工業",
+      "target": "NOK Group株式会社(共同持株会社)",
+      "amount": "非公開",
+      "industry": "製造",
+      "dealType": "経営統合(共同株式移転)完了",
+      "summary": "NOKとイーグル工業が共同持株会社NOK Groupを設立。111社・約4.3万人のシール大手が発足",
+      "insight": "有機材と無機材のシール技術を統合しシナジー追求。統合後のPMIと事業再編が焦点",
+      "url": "https://prtimes.jp/main/html/rd/p/000000170.000096493.html"
+    },
+    {
+      "date": "2026-10-01",
+      "sector": "VC",
+      "buyer": "ジャフコV7、ニッセイキャピタル15号、ゆうちょ銀行系地域イノベーション1号、DBJキャピタル、中信VC9号、NOBUNAGA Growingファンド",
+      "target": "スペクトロニクス",
+      "amount": "5.18億円",
+      "industry": "製造",
+      "dealType": "第三者割当増資",
+      "summary": "短波長・超短パルスレーザー発振器を開発。量産体制の移行・強化と国内外展開に充当",
+      "insight": "半導体・先端材料の微細加工向け基幹部品。量産移行期に金融系VCが集結し国産供給網強化が焦点",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000191322.html"
+    },
+    {
+      "date": "2026-10-01",
+      "sector": "VC",
+      "buyer": "UntroD Capital【リード】、Midtown Frontier Fund【リード】",
+      "target": "JAOPS",
+      "amount": "2.6億円",
+      "industry": "IT・ソフトウェア",
+      "dealType": "シード",
+      "summary": "衛星運用支援OaaSを展開。初の管制センター構築と運用ツール・シミュレータ開発に充当",
+      "insight": "衛星増加で運用の外部委託需要が拡大。JAXA宇宙戦略基金採択が信用補完となる",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000158023.html"
+    },
+    {
+      "date": "2026-10-01",
+      "sector": "VC",
+      "buyer": "NEXT東海イノベーションファンド（プライムパートナーズ・東海東京証券）【リード】、岡崎信用金庫、三井住友銀行ほか",
+      "target": "GX MINERALS",
+      "amount": "約4.6億円（融資含む）",
+      "industry": "製造",
+      "dealType": "シリーズA++",
+      "summary": "2D板状タルクフィラー「DIA」を製造。田原工場稼働で特殊グレード開発・品質保証・知財に充当",
+      "insight": "樹脂高機能化と脱炭素の双方で需要。量産稼働後は用途開拓と知財防衛が焦点",
+      "url": "https://prtimes.jp/main/html/rd/p/000000003.000170173.html"
+    },
+    {
+      "date": "2026-10-01",
+      "sector": "VC",
+      "buyer": "西武しんきんキャピタル【リード】、ひびしんキャピタル【リード】、ソリッドキャピタル、ホワイトアンドストーンほか",
+      "target": "こむぎの",
+      "amount": "3.6億円",
+      "industry": "食品・農業",
+      "dealType": "第三者割当増資",
+      "summary": "「小麦の奴隷」等の飲食ブランド開発・FC展開。IPO準備とブランド拡大に充当",
+      "insight": "地域ブランドの承継・再生と新業態開発の二軸。地銀系VC主導の飲食ロールアップ型モデル",
+      "url": "https://prtimes.jp/main/html/rd/p/000000075.000135697.html"
+    },
+    {
+      "date": "2026-10-01",
+      "sector": "VC",
+      "buyer": "非公開（リード未開示）",
+      "target": "Leafea",
+      "amount": "10億円",
+      "industry": "人材・サービス",
+      "dealType": "シリーズB 1stクローズ",
+      "summary": "中小企業向け福利厚生プラットフォームを運営。食事補助の開始と提携基盤の強化に充当",
+      "insight": "中小の福利厚生は未開拓領域。金融・保険との提携と2ndクローズの投資家構成が注目点",
+      "url": "https://prtimes.jp/main/html/rd/p/000000056.000105190.html"
+    },
     {
       "date": "2026-09-30",
       "sector": "PE",
@@ -1887,54 +1983,6 @@
       "summary": "スマホ画像認識のAI検品プラットフォームを展開するAUDERがシリーズA初回で4.5億円を調達。",
       "insight": "食品物流の検品レス化は人手不足の急所。既存WMSへの後付け導入が普及速度を左右する。",
       "url": "https://prtimes.jp/main/html/rd/p/000000003.000152258.html"
-    },
-    {
-      "date": "2026-09-02",
-      "sector": "商社・事業会社",
-      "buyer": "FPT Poland Sp. z o.o.（ベトナムFPTグループ）",
-      "target": "Nippon Seiki (Europe) B.V.（日本精機<7287>蘭子会社）のポーランド車載組込ソフト開発事業",
-      "amount": "非公開",
-      "industry": "IT・ソフトウェア",
-      "dealType": "事業譲渡（カーブアウト）",
-      "summary": "日本精機が欧州子会社の車載組込ソフト開発事業をベトナムFPTへ譲渡。10/2実行予定。",
-      "insight": "車載ソフトの内製維持を諦め外部パートナー化。HUD本業への資源集中と開発費固定費化が狙い。",
-      "url": "https://maonline.jp/news/20260902a"
-    },
-    {
-      "date": "2026-09-02",
-      "sector": "VC",
-      "buyer": "インキュベイトファンド（リード）, 三菱重工業",
-      "target": "メトロウェザー",
-      "amount": "15億円（1stクローズ）",
-      "industry": "その他",
-      "dealType": "シリーズB資金調達",
-      "summary": "京大発ドップラーライダー企業が物体検知用途の開発強化へ15億円を1stクローズ。",
-      "insight": "重工の事業会社出資が付く点が要諦。防衛・重要インフラ防護の国策連動型ディープテック。",
-      "url": "https://prtimes.jp/main/html/rd/p/000000044.000059540.html"
-    },
-    {
-      "date": "2026-09-02",
-      "sector": "VC",
-      "buyer": "エン, Angel Bridge, オープンアップグループ, WiL, One Capital",
-      "target": "PeopleX",
-      "amount": "54.5億円",
-      "industry": "人材・サービス",
-      "dealType": "シリーズA資金調達",
-      "summary": "創業2年のHR系AI企業が54.5億円を調達、累計78.2億円。新製品Athenaを同日発表。",
-      "insight": "人材会社が投資家に並ぶ構図。HR SaaSは販路を持つ事業会社との資本連携が成長の律速。",
-      "url": "https://prtimes.jp/main/html/rd/p/000000290.000139786.html"
-    },
-    {
-      "date": "2026-09-02",
-      "sector": "VC",
-      "buyer": "アニマルスピリッツ（リード）, ルート",
-      "target": "君のとなり",
-      "amount": "非公開",
-      "industry": "IT・ソフトウェア",
-      "dealType": "シリーズA資金調達",
-      "summary": "AI占いアプリ「うらっち」運営がシリーズA調達。みずほ銀行からの融資も併用。",
-      "insight": "エクイティ＋デットの併用は早期黒字化の自信の表れ。希薄化を抑えた資本構成が特徴。",
-      "url": "https://prtimes.jp/main/html/rd/p/000000005.000151674.html"
     }
   ]
 }
