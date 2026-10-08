@@ -1,9 +1,69 @@
 {
-  "updatedAt": "2026-10-07T10:20:17+09:00",
-  "updatedAtDisplay": "2026/10/07 10:20",
-  "windowStart": "2026-09-08",
-  "windowEnd": "2026-10-07",
+  "updatedAt": "2026-10-08T10:40:34+09:00",
+  "updatedAtDisplay": "2026/10/08 10:40",
+  "windowStart": "2026-09-09",
+  "windowEnd": "2026-10-08",
   "deals": [
+    {
+      "date": "2026-10-07",
+      "sector": "商社・事業会社",
+      "buyer": "True Data（4416）",
+      "target": "コスモネット（大阪市西区）",
+      "amount": "非公開",
+      "industry": "IT・ソフトウェア",
+      "dealType": "株式取得（完全子会社化）",
+      "summary": "購買データ基盤のTrue Dataが、プロショップ向けPOS・販売管理システム「MUSASI」のコスモネットを全株取得し完全子会社化。",
+      "insight": "消費者購買データにプロ市場POSを接合。住宅需要の先行指標化とAI需要予測への横展開が論点。",
+      "url": "https://www.truedata.co.jp/release20261007/"
+    },
+    {
+      "date": "2026-10-07",
+      "sector": "商社・事業会社",
+      "buyer": "ココナラ（4176）",
+      "target": "Acrosstudio（東京都渋谷区）",
+      "amount": "非公開",
+      "industry": "IT・ソフトウェア",
+      "dealType": "株式取得（51%・子会社化）",
+      "summary": "スキルマーケットのココナラが、AI実装コンサル・FDE支援のAcrosstudioの株式51%を取得し子会社化。",
+      "insight": "26年9月新設のAIカンパニーの中核に据える布陣。人材プール×実装力でAI-BPOへ展開できるかがPMIの肝。",
+      "url": "https://www.nihon-ma.co.jp/news/20261007_4176-20/"
+    },
+    {
+      "date": "2026-10-07",
+      "sector": "商社・事業会社",
+      "buyer": "日特建設（1929）",
+      "target": "地研テクノ（神奈川県相模原市）",
+      "amount": "非公開",
+      "industry": "建設・不動産",
+      "dealType": "株式取得（完全子会社化）",
+      "summary": "法面・地盤改良大手の日特建設が、住宅向け地盤調査・補強工事の地研テクノを全株取得し完全子会社化。",
+      "insight": "インフラ偏重から住宅地盤へ裾野拡大。工法と自社施工班の確保で人手不足下の施工力を内製化。",
+      "url": "https://www.nittoc.co.jp/ir/news/"
+    },
+    {
+      "date": "2026-10-07",
+      "sector": "VC",
+      "buyer": "ALPHA、ALL STAR SAAS FUND、Firstlight Capital、Aflac Ventures Japan、日本郵政キャピタル、Salesforce Ventures、三菱UFJキャピタル、みずほキャピタル、SMBCベンチャーキャピタル",
+      "target": "フライル（Flyle）",
+      "amount": "18.8億円",
+      "industry": "IT・ソフトウェア",
+      "dealType": "シリーズA",
+      "summary": "コンタクトセンター・CX向けAIエージェント「Flyle」がシリーズAで18.8億円調達。創業来累計22.7億円。",
+      "insight": "VOC分析SaaSから電話応対代替へ越境。SaaS単価とBPO代替予算の二重取りが収益の鍵。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000050.000076399.html"
+    },
+    {
+      "date": "2026-10-07",
+      "sector": "VC",
+      "buyer": "ON&BOARD投資事業有限責任組合（リード）、East Ventures、日本スタートアップ支援協会",
+      "target": "Every WiLL",
+      "amount": "1.3億円",
+      "industry": "物流",
+      "dealType": "シードラウンド",
+      "summary": "無人置き配スポット「トリイク」のEvery WiLLがシードで総額1.3億円調達、物流インフラ実装を加速。",
+      "insight": "再配達削減は政策追い風。遊休空間活用で設置原価が低く、面展開スピードが競争要因。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000038.000167534.html"
+    },
     {
       "date": "2026-10-06",
       "sector": "PE",
@@ -2043,78 +2103,6 @@
       "summary": "浮体式洋上風車の長崎県海上実証拡大へプレシリーズBで2.5億円を調達。累計約7.7億円。",
       "insight": "政策金融と重工・化学の事業会社が並走し、実証段階の資金ギャップを産業資本が補完",
       "url": "https://prtimes.jp/main/html/rd/p/000000008.000106573.html"
-    },
-    {
-      "date": "2026-09-08",
-      "sector": "商社・事業会社",
-      "buyer": "ライフコーポレーション（8194）",
-      "target": "アルビス（7475）",
-      "amount": "約263億円（1株3,780円でTOB）",
-      "industry": "小売・消費財",
-      "dealType": "TOB（連結子会社化）",
-      "summary": "ライフがアルビスに1株3780円でTOB、最大263億円で連結子会社化",
-      "insight": "三菱商事系SM再編。北陸・中京の店舗網と物流統合効果の取り込みが焦点",
-      "url": "https://www.nikkei.com/article/DGXZQOUC088G40Y6A900C2000000/"
-    },
-    {
-      "date": "2026-09-08",
-      "sector": "商社・事業会社",
-      "buyer": "エクサウィザーズ（4259）",
-      "target": "ele&company",
-      "amount": "7億400万円",
-      "industry": "IT・ソフトウェア",
-      "dealType": "株式取得（完全子会社化）",
-      "summary": "AI企業エクサウィザーズが現場伴走型コンサルのele&companyを7億円で子会社化",
-      "insight": "AI導入支援に人的コンサル機能を内製化、AI企業のサービス拡張策の好例",
-      "url": "https://prtimes.jp/main/html/rd/p/000000491.000030192.html"
-    },
-    {
-      "date": "2026-09-08",
-      "sector": "商社・事業会社",
-      "buyer": "フルサト・マルカホールディングス（7128、子会社経由）",
-      "target": "EUREKA ROBOTICS PTE. LTD.（シンガポール）",
-      "amount": "非公開",
-      "industry": "製造",
-      "dealType": "追加出資",
-      "summary": "機械商社のフルサト・マルカがシンガポールのロボット新興に追加出資",
-      "insight": "商社による海外ロボティクス新興への継続出資、既存機械事業との融合が狙い",
-      "url": "https://tdnet-pdf.kabutan.jp/20260908/140120260908532845.pdf"
-    },
-    {
-      "date": "2026-09-08",
-      "sector": "商社・事業会社",
-      "buyer": "旭情報サービス（9799）",
-      "target": "Think株式会社",
-      "amount": "非公開",
-      "industry": "IT・ソフトウェア",
-      "dealType": "株式取得完了（子会社化）",
-      "summary": "ITサービスの旭情報サービスがThink株式会社の株式取得を完了、子会社化",
-      "insight": "中堅ITによる小型ボルトオンM&A。人材・技術獲得型の再編が底流に",
-      "url": "https://tdnet-pdf.kabutan.jp/20260908/140120260908532858.pdf"
-    },
-    {
-      "date": "2026-09-08",
-      "sector": "VC",
-      "buyer": "KRAFTIA Innovation Fund（Spiral Innovation Partners運用）（リード）, 東海研究開発1号投資事業有限責任組合（CJIC）, 有限会社柴田熔接工作所",
-      "target": "POLASTECH株式会社",
-      "amount": "1.4億円（シード2ラウンド）",
-      "industry": "製造",
-      "dealType": "シード2ラウンド／第三者割当増資",
-      "summary": "吸着ヒートポンプ技術でデータセンター排熱活用を手がけるPOLASTECHが1.4億円調達",
-      "insight": "DC冷却需要の拡大を背景に、素材系ディープテックへ地域系ファンドも資金供給",
-      "url": "https://prtimes.jp/main/html/rd/p/000000003.000179058.html"
-    },
-    {
-      "date": "2026-09-08",
-      "sector": "VC",
-      "buyer": "SBIインベストメント（SBIグループ）（リード）",
-      "target": "株式会社GeoDreams",
-      "amount": "非公開（プレシリーズA）",
-      "industry": "エネルギー",
-      "dealType": "プレシリーズAラウンド",
-      "summary": "次世代型（クローズドループ）地熱発電のGeoDreamsがSBIグループから調達",
-      "insight": "脱炭素電源としての地熱に大手金融系VCが参入。政策資金との連動が鍵",
-      "url": "https://prtimes.jp/main/html/rd/p/000000017.000162716.html"
     }
   ]
 }
