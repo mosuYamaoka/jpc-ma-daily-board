@@ -1,9 +1,129 @@
 {
-  "updatedAt": "2026-10-13T11:55:45+09:00",
-  "updatedAtDisplay": "2026/10/13 11:55",
-  "windowStart": "2026-09-14",
-  "windowEnd": "2026-10-13",
+  "updatedAt": "2026-10-14T10:01:27+09:00",
+  "updatedAtDisplay": "2026/10/14 10:01",
+  "windowStart": "2026-09-15",
+  "windowEnd": "2026-10-14",
   "deals": [
+    {
+      "date": "2026-10-13",
+      "sector": "PE",
+      "buyer": "クレアシオン・キャピタル",
+      "target": "トーワレンテック",
+      "amount": "非公開",
+      "industry": "建設・不動産",
+      "dealType": "バイアウト（事業承継）",
+      "summary": "クレアシオン・キャピタルがSPC経由で仮設ユニットハウス等レンタルのトーワレンテックに資本参加",
+      "insight": "レンタル型ストック収益は景気耐性が高く、地場リース業ロールアップの起点になり得る",
+      "url": "https://www.crea-cp.com/wp-content/uploads/2026/10/20261013_TR.pdf"
+    },
+    {
+      "date": "2026-10-13",
+      "sector": "商社・事業会社",
+      "buyer": "オムロン",
+      "target": "Interlogic（OnLogic親会社）",
+      "amount": "約1,046億円",
+      "industry": "製造",
+      "dealType": "株式取得（完全子会社化）",
+      "summary": "オムロンが米産業用PCのOnLogicとその親会社Interlogicを約1,046億円で完全子会社化",
+      "insight": "FA制御×産業用PCでフィジカルAI基盤を内製化。北米2,000社の顧客基盤獲得が本質",
+      "url": "https://www.omron.com/jp/ja/news/2026/10/c1013.html"
+    },
+    {
+      "date": "2026-10-13",
+      "sector": "商社・事業会社",
+      "buyer": "ヒューリック",
+      "target": "リソー教育",
+      "amount": "約248億円",
+      "industry": "人材・サービス",
+      "dealType": "TOB（完全子会社化）",
+      "summary": "持分50.87%のヒューリックが1株295円でTOBし、リソー教育Gを約248億円で完全子会社化",
+      "insight": "不動産×教育の自社ビル活用モデル。非上場化で短期減益を伴う構造改革を断行する構え",
+      "url": "https://www.release.tdnet.info/inbs/140120261013549957.pdf"
+    },
+    {
+      "date": "2026-10-13",
+      "sector": "商社・事業会社",
+      "buyer": "カチタス",
+      "target": "東武住販",
+      "amount": "約54億円",
+      "industry": "建設・不動産",
+      "dealType": "TOB（子会社化）",
+      "summary": "カチタスが東武住販に1株2,000円（＋72.6%）でTOB、約54億円で子会社化し上場廃止へ",
+      "insight": "中古住宅再生の中国・九州網を補完。高プレミアムは仕入ネットワークの希少性を映す",
+      "url": "https://www.release.tdnet.info/inbs/140120261013549689.pdf"
+    },
+    {
+      "date": "2026-10-13",
+      "sector": "商社・事業会社",
+      "buyer": "日本テレビ放送網・TBSテレビ・フジテレビジョン",
+      "target": "アドリーチマックス（新設合弁）",
+      "amount": "非公開",
+      "industry": "その他",
+      "dealType": "合弁会社設立",
+      "summary": "在京キー局3社が広告取引基盤の合弁「アドリーチマックス」を設立、2027年2月事業開始",
+      "insight": "系列を越えた共同PF化。ネット広告対抗で在京キー局が競争から協調へ転換",
+      "url": "https://prtimes.jp/main/html/rd/p/000000007.000191835.html"
+    },
+    {
+      "date": "2026-10-13",
+      "sector": "商社・事業会社",
+      "buyer": "ココナラ",
+      "target": "ココナラエリス（新設合弁）",
+      "amount": "非公開",
+      "industry": "IT・ソフトウェア",
+      "dealType": "合弁会社設立",
+      "summary": "ココナラがElithと合弁「ココナラエリス」を設立、法人向けAIセキュリティ事業に参入",
+      "insight": "個人向けCtoCから法人AI領域へ横展開。JV方式で技術調達と投資リスクを分散",
+      "url": "https://www.release.tdnet.info/inbs/140120261013549862.pdf"
+    },
+    {
+      "date": "2026-10-13",
+      "sector": "商社・事業会社",
+      "buyer": "セキュア",
+      "target": "日東通信",
+      "amount": "約14.2億円",
+      "industry": "IT・ソフトウェア",
+      "dealType": "株式取得（子会社化）",
+      "summary": "セキュアが仙台の通信設備設計・施工の日東通信を約14.2億円で子会社化、東北地盤を取得",
+      "insight": "監視カメラ販売に施工・保守を内製化。地域工事会社の囲い込みが参入障壁になる",
+      "url": "https://www.release.tdnet.info/inbs/140120261013549436.pdf"
+    },
+    {
+      "date": "2026-10-13",
+      "sector": "商社・事業会社",
+      "buyer": "ジェイック",
+      "target": "アクシア",
+      "amount": "非公開",
+      "industry": "IT・ソフトウェア",
+      "dealType": "株式取得（子会社化）",
+      "summary": "ジェイックがシステム受託開発のアクシアを全株取得で子会社化",
+      "insight": "人材サービスにIT受託を接続。エンジニア採用・育成の内製化で単価向上を狙う",
+      "url": "https://www.release.tdnet.info/inbs/140120261013549191.pdf"
+    },
+    {
+      "date": "2026-10-13",
+      "sector": "VC",
+      "buyer": "三菱UFJ信託銀行／MUFGキャピタル／環境エネルギー投資／SG Wonder zone",
+      "target": "esa",
+      "amount": "非公開（累計11.5億円）",
+      "industry": "製造",
+      "dealType": "第三者割当増資",
+      "summary": "複合プラスチックを再生ペレット化するesaが4社から調達、累計11.5億円に",
+      "insight": "メガバンク系が静脈産業を金融側から囲い込む構図。再生材の出口確保が論点",
+      "url": "https://prtimes.jp/main/html/rd/p/000000053.000102225.html"
+    },
+    {
+      "date": "2026-10-13",
+      "sector": "VC",
+      "buyer": "おおさか地域活性化ファンド（大阪信用金庫・ABAKAM）",
+      "target": "White Crow",
+      "amount": "非公開",
+      "industry": "その他",
+      "dealType": "ファンド出資",
+      "summary": "ドローンショー企画運営のWhite Crowが大阪信金系ファンドから出資を受領",
+      "insight": "信金系地域ファンドの第3号案件。観光集客コンテンツが地域金融の投資対象に",
+      "url": "https://prtimes.jp/main/html/rd/p/000000027.000147437.html"
+    },
     {
       "date": "2026-10-09",
       "sector": "商社・事業会社",
@@ -2043,54 +2163,6 @@
       "summary": "免税リファンド型プラットフォーム『Ocean Tax Refund』を小売事業者向けに提供",
       "insight": "26年11月の免税制度改正が一斉需要を創出。制度変更起点の時限的成長機会",
       "url": "https://prtimes.jp/main/html/rd/p/000000042.000172396.html"
-    },
-    {
-      "date": "2026-09-14",
-      "sector": "商社・事業会社",
-      "buyer": "光通信（9435）／MBKパートナーズ／NECキャピタルソリューション系ファンド",
-      "target": "レオパレス21（8848）",
-      "amount": "最大2,676億円（1株1,000円）",
-      "industry": "建設・不動産",
-      "dealType": "TOBによる非公開化",
-      "summary": "光通信とファンド2社がレオパレス21に1株1,000円でTOB、非公開化を目指す。",
-      "insight": "14日終値比45%プレミアム。光通信の顧客網×賃貸物件への商材クロスセルが収益源。",
-      "url": "https://www.release.tdnet.info/inbs/140120260914536244.pdf"
-    },
-    {
-      "date": "2026-09-14",
-      "sector": "VC",
-      "buyer": "Japan Venture Capital, SBI新生企業投資, i-nest capital, GoAhead Ventures, 生保イノベーションファンド, SBI岡三アルタナティブ投資, BIG Impact, 中信証券投資",
-      "target": "AOI Biosciences株式会社",
-      "amount": "約5億円",
-      "industry": "医療・ヘルスケア",
-      "dealType": "第三者割当増資・セカンダリー",
-      "summary": "抗β2GPIネオセルフ抗体検査とアロステリック創薬の拡大に向け約5億円を調達。",
-      "insight": "検査と創薬の二正面展開は資金効率が論点。パイプライン優先順位の精査が焦点。",
-      "url": "https://prtimes.jp/main/html/rd/p/000000038.000075666.html"
-    },
-    {
-      "date": "2026-09-14",
-      "sector": "VC",
-      "buyer": "Mercuria Investment（リード）, Coral Capital, Spiral Innovation Partners",
-      "target": "株式会社Kiviaq",
-      "amount": "1.5億円",
-      "industry": "医療・ヘルスケア",
-      "dealType": "プレシリーズA資金調達",
-      "summary": "処方薬を即日配送するダークストア型薬局モデルで1.5億円を調達。",
-      "insight": "薬機法対応と配送網構築の同時進行が資本効率とスケール速度を左右する。",
-      "url": "https://prtimes.jp/main/html/rd/p/000000026.000165674.html"
-    },
-    {
-      "date": "2026-09-14",
-      "sector": "PE",
-      "buyer": "インテグラル<5842>",
-      "target": "かどや製油<2612>",
-      "amount": "約580億円（報道ベース）",
-      "industry": "食品・農業",
-      "dealType": "TOB・非公開化",
-      "summary": "ごま油最大手がインテグラルのTOBを受け入れ株式を非公開化",
-      "insight": "成熟ブランドの上場維持コスト見直し。原料相場変動下での中期投資自由度確保が狙い",
-      "url": "https://maonline.jp/news/20260915e"
     }
   ]
 }
