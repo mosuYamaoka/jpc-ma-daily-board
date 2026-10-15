@@ -1,11 +1,10 @@
 {
-  "dateLabel": "10月14日",
-  "newCount": 10,
+  "dateLabel": "10月15日",
+  "newCount": 14,
   "newBySector": {
-    "PE": 1,
-    "商社・事業会社": 7,
-    "VC": 2
+    "商社・事業会社": 13,
+    "VC": 1
   },
-  "totalCount": 180,
-  "updatedAtDisplay": "2026/10/14 10:01"
+  "totalCount": 182,
+  "updatedAtDisplay": "2026/10/15 09:22"
 }
