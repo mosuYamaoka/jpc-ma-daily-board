@@ -1,9 +1,93 @@
 {
-  "updatedAt": "2026-10-15T09:22:29+09:00",
-  "updatedAtDisplay": "2026/10/15 09:22",
-  "windowStart": "2026-09-16",
-  "windowEnd": "2026-10-15",
+  "updatedAt": "2026-10-16T09:10:41+09:00",
+  "updatedAtDisplay": "2026/10/16 09:10",
+  "windowStart": "2026-09-17",
+  "windowEnd": "2026-10-16",
   "deals": [
+    {
+      "date": "2026-10-15",
+      "sector": "商社・事業会社",
+      "buyer": "三井物産",
+      "target": "Penske Automotive Group（米・自動車販売大手）",
+      "amount": "最大16億米ドル（約2,400億円）出資／株式価値約139億米ドル",
+      "industry": "小売・消費財",
+      "dealType": "追加出資（非公開化）",
+      "summary": "ペンスキー社と共同でPAG浮動株を取得し非公開化。持分20.3%→約36%へ",
+      "insight": "ディーラー網をバリューチェーン中核に。非公開化で短期業績圧力を排し再投資加速",
+      "url": "https://www.nikkei.com/article/DGXZQOUC15A6T0V11C26A0000000/"
+    },
+    {
+      "date": "2026-10-15",
+      "sector": "商社・事業会社",
+      "buyer": "ヒット（378A）",
+      "target": "ナディア、xbs（SHIFT子会社デケムより取得）",
+      "amount": "2社合計12億9,000万円",
+      "industry": "IT・ソフトウェア",
+      "dealType": "子会社化",
+      "summary": "屋外広告のヒットがSHIFT傘下のクリエイティブ2社を取得、10月30日実行",
+      "insight": "SHIFTの非中核切り出しの受け皿。広告枠保有企業が制作機能を取り込む垂直統合",
+      "url": "https://www.nihon-ma.co.jp/news/20261015_378A-4/"
+    },
+    {
+      "date": "2026-10-15",
+      "sector": "商社・事業会社",
+      "buyer": "Photosynth（4379）",
+      "target": "GOODLIFE、GDS（フィットネス・ピラティス運営）",
+      "amount": "約6億円",
+      "industry": "人材・サービス",
+      "dealType": "子会社化",
+      "summary": "AkerunのPhotosynthがジム運営2社を取得。11月1日実行、12月1日に両社合併",
+      "insight": "SaaS企業が顧客側事業を買う1st Party M&A。無人化技術の実証と収益改善を同時に",
+      "url": "https://www.nihon-ma.co.jp/news/20261015_4379-5/"
+    },
+    {
+      "date": "2026-10-15",
+      "sector": "商社・事業会社",
+      "buyer": "セキュアソフト（譲渡元：ナレルグループ 9163）",
+      "target": "ATJC（IT技術者派遣・SES）",
+      "amount": "基本譲渡価額12億円",
+      "industry": "人材・サービス",
+      "dealType": "株式売却",
+      "summary": "ナレルGがSES子会社ATJCを全株譲渡、10月30日実行。建設DX事業のみ自社に移管",
+      "insight": "人材派遣の多角化を巻き戻す選択と集中。建設DX機能だけ切り分け残す設計",
+      "url": "https://www.nihon-ma.co.jp/news/20261015_9163-1/"
+    },
+    {
+      "date": "2026-10-15",
+      "sector": "商社・事業会社",
+      "buyer": "イオレ（2334）",
+      "target": "WOODMAN（AIサーバー販売・モジュール型AIデータセンター開発）",
+      "amount": "非公開（株式交換比率：1株に対しイオレ5,727.38株）",
+      "industry": "IT・ソフトウェア",
+      "dealType": "株式交換（完全子会社化）",
+      "summary": "イオレがAIデータセンター開発のWOODMANを株式交換で完全子会社化、11月30日効力発生",
+      "insight": "現金を使わず株式対価でAIインフラ機能を獲得。希薄化と引き換えに急成長市場へ参入",
+      "url": "https://www.nihon-ma.co.jp/news/20261015_2334-4/"
+    },
+    {
+      "date": "2026-10-15",
+      "sector": "VC",
+      "buyer": "JR東日本スタートアップ（リード・単独）",
+      "target": "株式会社any style",
+      "amount": "非公開",
+      "industry": "IT・ソフトウェア",
+      "dealType": "資金調達（資本業務提携）",
+      "summary": "VTuber等インフルエンサー活用のマーケ支援・アバター/動画制作・AI BPOを展開",
+      "insight": "交通CVCがIP×ファンダム領域に投資。駅・車内メディアとの送客設計が勝負所",
+      "url": "https://prtimes.jp/main/html/rd/p/000000389.000034286.html"
+    },
+    {
+      "date": "2026-10-15",
+      "sector": "VC",
+      "buyer": "株式会社アイ・ティ・イノベーション（リード・単独）",
+      "target": "株式会社CREA",
+      "amount": "非公開",
+      "industry": "IT・ソフトウェア",
+      "dealType": "資金調達（第三者割当増資・資本業務提携）",
+      "summary": "名古屋大学関連AIベンチャー。製造業特化の生成AI実装・ロボットSIを手がける",
+      "insight": "SIerが大学発AIを取り込む垂直統合型。既存基幹システム顧客基盤がAX入口に",
+      "url": "https://www.atpress.ne.jp/news/640043"
+    },
     {
       "date": "2026-10-14",
       "sector": "商社・事業会社",
@@ -2139,54 +2223,6 @@
       "summary": "生成AI上での言及を分析するGEOプラットフォームQueryLiftが1億円を調達。",
       "insight": "SEOからGEOへ検索流入の前提が移行。BtoBマーケ予算の再配分が商機。",
       "url": "https://prtimes.jp/main/html/rd/p/000000006.000162828.html"
-    },
-    {
-      "date": "2026-09-16",
-      "sector": "商社・事業会社",
-      "buyer": "レダックス<7602>",
-      "target": "ハリカのギフト事業を承継する会社",
-      "amount": "6億7,000万円",
-      "industry": "小売・消費財",
-      "dealType": "子会社化",
-      "summary": "ギフト販売約100店のハリカ事業承継会社をスポンサー契約で取得",
-      "insight": "中古車「カーチス」顧客網とのクロスセル前提。FC比率の高い店舗網の再建難度が最大論点",
-      "url": "https://maonline.jp/news/20260916a"
-    },
-    {
-      "date": "2026-09-16",
-      "sector": "商社・事業会社",
-      "buyer": "東急不動産ホールディングス",
-      "target": "ジャストプランニング<4287>子会社JPパワーの太陽光発電事業",
-      "amount": "非公開",
-      "industry": "エネルギー",
-      "dealType": "事業譲受",
-      "summary": "栃木2拠点・宮城1拠点の太陽光発電事業を譲受、9月30日実行予定",
-      "insight": "売り手はAI・データ領域へ資源集中。買い手は稼働済みFIT資産の積上げで再エネ量を確保",
-      "url": "https://maonline.jp/news/20260916b"
-    },
-    {
-      "date": "2026-09-16",
-      "sector": "商社・事業会社",
-      "buyer": "フジタコーポレーション<3370>",
-      "target": "市川牧場（北海道美深町・酪農）",
-      "amount": "1億3,900万円",
-      "industry": "食品・農業",
-      "dealType": "子会社化",
-      "summary": "農地所有適格法人の酪農会社を取得（議決権40%・経済的持分99.4%）",
-      "insight": "農地法要件を種類株で回避する設計が巧み。道産食材の垂直統合で原料調達の内製化を狙う",
-      "url": "https://maonline.jp/news/20260916c"
-    },
-    {
-      "date": "2026-09-16",
-      "sector": "商社・事業会社",
-      "buyer": "LT Foods（インド）",
-      "target": "KAMEDA LT FOODS (INDIA)（亀田製菓<2220>保有全株）",
-      "amount": "非公開",
-      "industry": "食品・農業",
-      "dealType": "事業譲受",
-      "summary": "亀田製菓がインド合弁の保有全株をパートナーLT Foodsへ譲渡",
-      "insight": "北米構造改革に続く海外整理。JV解消は現地パートナー依存型進出の限界を示す事例",
-      "url": "https://www.nihon-ma.co.jp/news/20260916_2220-5/"
     }
   ]
 }
