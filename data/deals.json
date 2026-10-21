@@ -1,9 +1,69 @@
 {
-  "updatedAt": "2026-10-20T09:59:18+09:00",
-  "updatedAtDisplay": "2026/10/20 09:59",
-  "windowStart": "2026-09-21",
-  "windowEnd": "2026-10-20",
+  "updatedAt": "2026-10-21T09:28:10+09:00",
+  "updatedAtDisplay": "2026/10/21 09:28",
+  "windowStart": "2026-09-22",
+  "windowEnd": "2026-10-21",
   "deals": [
+    {
+      "date": "2026-10-20",
+      "sector": "PE",
+      "buyer": "BCJ-110（ベインキャピタル傘下SPC）",
+      "target": "イーソル株式会社（東証4420）",
+      "amount": "約140億2,900万円（1株820円）",
+      "industry": "IT・ソフトウェア",
+      "dealType": "バイアウト（MBO・TOB成立／非公開化）",
+      "summary": "ベインキャピタル傘下BCJ-110によるイーソルへのMBO・TOBが成立。1株820円・総額約140億円で非公開化へ。",
+      "insight": "組込みOS技術の非公開化。車載SDV向け投資を株価圧力なしで加速する狙い。",
+      "url": "https://www.release.tdnet.info/inbs/140120261020553355.pdf"
+    },
+    {
+      "date": "2026-10-20",
+      "sector": "PE",
+      "buyer": "横浜キャピタル運営「Yokohama Next 2号投資事業有限責任組合」等出資のSPC",
+      "target": "株式会社ディオントーキョー",
+      "amount": "非公開",
+      "industry": "小売・消費財",
+      "dealType": "セカンダリー・バイアウト（サーチファンドEXIT／事業承継）",
+      "summary": "サーチファンド・ジャパンが承継支援したディオントーキョー株を横浜キャピタル系ファンドへ全株譲渡。",
+      "insight": "サーチファンドのEXIT事例。地銀系PEが受け皿となる承継リレーの型が確立。",
+      "url": "https://www.searchfund.co.jp/news/20261020"
+    },
+    {
+      "date": "2026-10-20",
+      "sector": "商社・事業会社",
+      "buyer": "ABB株式会社（スイスABBの日本法人）",
+      "target": "三菱電機 配電制御機器事業（新設分割会社）",
+      "amount": "824億円（株式51%譲渡価格、価格調整あり）",
+      "industry": "製造",
+      "dealType": "合弁設立（会社分割＋株式51%譲渡）",
+      "summary": "三菱電機が配電制御機器事業を新会社に吸収分割し、ABB日本法人へ51%を824億円で譲渡し合弁化。",
+      "insight": "成熟事業を持分法化し資本効率を改善。販路はABBに委ね49%で果実も残す切出し型再編。",
+      "url": "https://japanir.jp/wp-content/uploads/2026/10/6503-20261020-01.pdf"
+    },
+    {
+      "date": "2026-10-20",
+      "sector": "商社・事業会社",
+      "buyer": "リログループ（8876）",
+      "target": "ATIV Medical Pte. Ltd.（シンガポール）",
+      "amount": "16.2億円（関連費用含め約16.8億円）",
+      "industry": "医療・ヘルスケア",
+      "dealType": "子会社化（議決権90.0%取得）",
+      "summary": "リログループが東南アジアで邦人向け医療サービスを営むATIV Medicalの90%を16.2億円で取得。",
+      "insight": "海外赴任支援の前後工程を垂直統合。駐在員の医療という高頻度接点で囲い込みを狙う。",
+      "url": "https://japanir.jp/wp-content/uploads/2026/10/8876-20261020-01.pdf"
+    },
+    {
+      "date": "2026-10-20",
+      "sector": "VC",
+      "buyer": "INSPiRE相利共生1号ファンド、島津未来創造ファンド、大林組、Love Veggies Holding Ltd.",
+      "target": "株式会社Kinish",
+      "amount": "4.9億円",
+      "industry": "食品・農業",
+      "dealType": "シリーズA（ファーストクローズ）",
+      "summary": "コメ由来の代替乳製品KinishがシリーズA1stクローズで4.9億円調達。日米で販売拡大とカゼイン米開発へ。",
+      "insight": "引受先は島津・大林組等の事業会社CVC中心。植物分子農業の量産実装パートナー確保が狙い。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000007.000155596.html"
+    },
     {
       "date": "2026-10-19",
       "sector": "PE",
@@ -2091,18 +2151,6 @@
       "summary": "MAKE VALUEのテキスタイル事業部門「カーテンファクトリー」を譲受",
       "insight": "店舗網と顧客基盤を承継し新収益源化。サステナブル事業との連携が論点",
       "url": "https://www.nihon-ma.co.jp/news/20260924_3647-12/"
-    },
-    {
-      "date": "2026-09-21",
-      "sector": "商社・事業会社",
-      "buyer": "三菱商事",
-      "target": "アヤラ・コーポレーション（フィリピン財閥持株会社）",
-      "amount": "約445億ペソ（約1,200億円／約7.10億ドル）",
-      "industry": "その他",
-      "dealType": "追加出資（第三者割当増資＋相対取得＋公開買付け）／持分法適用会社化",
-      "summary": "三菱商事がアヤラへ約445億ペソ追加出資。経済持分4.7%→15%、議決権20%で持分法適用会社化。",
-      "insight": "資源依存脱却と東南アジア内需の取り込み。財閥への少数出資で面的に事業機会を囲う型。",
-      "url": "https://ayala.com/ayala-and-mitsubishi-deepen-strategic-alliance-to-support-long-term-growth-in-the-philippines/"
     }
   ]
 }
