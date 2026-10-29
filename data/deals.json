@@ -1,9 +1,129 @@
 {
-  "updatedAt": "2026-10-28T10:03:33+09:00",
-  "updatedAtDisplay": "2026/10/28 10:03",
-  "windowStart": "2026-09-29",
-  "windowEnd": "2026-10-28",
+  "updatedAt": "2026-10-29T10:39:58+09:00",
+  "updatedAtDisplay": "2026/10/29 10:39",
+  "windowStart": "2026-09-30",
+  "windowEnd": "2026-10-29",
   "deals": [
+    {
+      "date": "2026-10-28",
+      "sector": "PE",
+      "buyer": "アドバンテッジパートナーズ（開示上は「C社」／対抗提案者）、現公開買付者はインテグラル系ITG-Gホールディングス",
+      "target": "かどや製油（東証スタンダード・2612）",
+      "amount": "1株最大3,000円（自己株式取得併用ストラクチャー①）。TOB単独なら2,654円。インテグラルによる当初TOBは約580億円規模",
+      "industry": "食品・農業",
+      "dealType": "TOB非公開化／対抗買収提案（争奪戦）",
+      "summary": "かどや製油が対抗提案を開示。C社（AP）が最大3,000円の拘束力ある提案、インテグラルに価格改定要求",
+      "insight": "自己株取得併用で株主受取額を嵩上げする設計。価格水準よりストラクチャー巧拙が勝敗を分ける",
+      "url": "https://www.kadoya.com/ir/system/wp-content/uploads/2026/10/e33297f3673ee4bde022f383c2572eb9.pdf"
+    },
+    {
+      "date": "2026-10-28",
+      "sector": "商社・事業会社",
+      "buyer": "鈴与シンワート",
+      "target": "トッカシステムズ（株式70%）",
+      "amount": "2億3800万円",
+      "industry": "IT・ソフトウェア",
+      "dealType": "株式取得（連結子会社化）",
+      "summary": "鈴与シンワートがAI導入支援のトッカシステムズ株70%を2.4億円で取得",
+      "insight": "長年の開発パートナーを内製化し、AIサービス立ち上げを前倒しする狙い",
+      "url": "https://www.shinwart.co.jp/news/doc/20261028-1.html"
+    },
+    {
+      "date": "2026-10-28",
+      "sector": "商社・事業会社",
+      "buyer": "フクヤ建設",
+      "target": "ウッドプラン（兵庫県豊岡市、全株式）",
+      "amount": "非公開",
+      "industry": "建設・不動産",
+      "dealType": "株式取得（完全子会社化）",
+      "summary": "フクヤ建設が注文住宅施工のウッドプラン全株式を取得し子会社化",
+      "insight": "営業赤字の地場工務店を取り込み、但馬圏の施工能力と顧客基盤を確保",
+      "url": "https://maonline.jp/news/20261028e"
+    },
+    {
+      "date": "2026-10-28",
+      "sector": "商社・事業会社",
+      "buyer": "東京通信グループ（子会社パルマ）",
+      "target": "パスゲートのアイドルグループ「すべての瞬間は君だった。」事業",
+      "amount": "非公開",
+      "industry": "その他",
+      "dealType": "事業譲受",
+      "summary": "東京通信Gがパスゲートからアイドルグループ事業を譲受、11月1日実行",
+      "insight": "IP保有数を増やしファンクラブ・EC・イベントの既存収益導線に接続",
+      "url": "https://maonline.jp/news/20261028c"
+    },
+    {
+      "date": "2026-10-28",
+      "sector": "商社・事業会社",
+      "buyer": "リアルクオリティ",
+      "target": "城山（富山県氷見市）の旅館運営事業",
+      "amount": "非公開（取得価額未確定）",
+      "industry": "その他",
+      "dealType": "事業譲受",
+      "summary": "リアルクオリティが城山から旅館運営事業を譲受、11月17日実行予定",
+      "insight": "旅館再生の受託ノウハウを自社運営に転用し収益を内部化する動き",
+      "url": "https://maonline.jp/news/20261028b"
+    },
+    {
+      "date": "2026-10-28",
+      "sector": "商社・事業会社",
+      "buyer": "栄新商事経営陣（MBO）",
+      "target": "栄新商事（新都ホールディングス子会社）",
+      "amount": "非公開",
+      "industry": "その他",
+      "dealType": "子会社売却（経営陣への株式譲渡）",
+      "summary": "新都HDがスクラップ回収子会社の栄新商事株式を経営陣へ譲渡",
+      "insight": "非中核の資源リサイクル事業を切り離し本業への経営資源集中を優先",
+      "url": "https://maonline.jp/news/20261028a"
+    },
+    {
+      "date": "2026-10-28",
+      "sector": "VC",
+      "buyer": "フルグル合同会社（Fulgur Ventures日本法人）, 株式会社ANAPライトニングキャピタル",
+      "target": "日本ビットコイン産業株式会社",
+      "amount": "約8億円（8億43万3,580円）",
+      "industry": "金融",
+      "dealType": "第三者割当増資（ビットコイン現物出資）",
+      "summary": "ビットコイン／ライトニング決済基盤を開発。全額BTC現物出資で約8億円調達。",
+      "insight": "国内初級のBTC現物出資スキーム。カード網依存脱却を狙う決済レイヤー投資。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000008.000172397.html"
+    },
+    {
+      "date": "2026-10-28",
+      "sector": "VC",
+      "buyer": "日本ベンチャーキャピタル（既存・追加出資）, 京都キャピタルパートナーズ, コロプラネクスト, SBI岡三オルタナティブ・インベストメント, りそな銀行, 日本政策金融公庫",
+      "target": "ゲシピ株式会社",
+      "amount": "総額6.6億円",
+      "industry": "人材・サービス",
+      "dealType": "シリーズB（ファイナルクローズ）",
+      "summary": "eスポーツ英会話「eスピ！」等の没入型教育DX。シリーズB最終で総額6.6億円。",
+      "insight": "B2C英会話に自治体向け教育を併走。エクイティ＋融資併用で希薄化を抑制。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000127.000031716.html"
+    },
+    {
+      "date": "2026-10-28",
+      "sector": "VC",
+      "buyer": "Lightup Ventures, 京都キャピタルパートナーズ（KCAPベンチャーファンド1号）, MUFGキャピタル（10号ファンド）, アンカーシップパートナーズグループ ほか",
+      "target": "株式会社IDEABLE WORKS",
+      "amount": "約1.8億円",
+      "industry": "IT・ソフトウェア",
+      "dealType": "シリーズA",
+      "summary": "ギャラリープラットフォーム「HACKK TAG」運営の京都発企業が1.8億円調達。",
+      "insight": "作家DBとデジタル額装の両輪。商業施設・医療福祉への面展開が収益の鍵。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000124.000068880.html"
+    },
+    {
+      "date": "2026-10-28",
+      "sector": "VC",
+      "buyer": "新潟ベンチャーキャピタル株式会社（地方創生新潟2号ファンド）",
+      "target": "インテグリカルチャー株式会社",
+      "amount": "非公開",
+      "industry": "食品・農業",
+      "dealType": "ラウンド非開示（地域ファンドからの出資）",
+      "summary": "細胞農業インフラのインテグリカルチャーが新潟VCから資金調達を完了。",
+      "insight": "食品より先に化粧品で収益化。地域資源活用で量産前の実装拠点を確保。",
+      "url": "https://prtimes.jp/main/html/rd/p/000000063.000034252.html"
+    },
     {
       "date": "2026-10-27",
       "sector": "PE",
@@ -2163,42 +2283,6 @@
       "summary": "Roblox上でゲームの企画・開発・運営を行うコンテンツスタジオ。",
       "insight": "エクイティとデット併用。Roblox経済圏でのIP公式化が収益の持続性を左右。",
       "url": "https://prtimes.jp/main/html/rd/p/000000037.000129776.html"
-    },
-    {
-      "date": "2026-09-29",
-      "sector": "商社・事業会社",
-      "buyer": "三昌物産",
-      "target": "からたまや（魁力屋の中食事業を新設分割）",
-      "amount": "非公開",
-      "industry": "食品・農業",
-      "dealType": "事業譲渡（新設分割＋株式譲渡）",
-      "summary": "SAKIGAKE HD傘下の魁力屋が中食事業を新設分割し、全株式を三昌物産へ譲渡（契約締結9/29）",
-      "insight": "ラーメン外食の非中核の中食部門を切出し。買手は商社系で惣菜ブランド獲得と販路拡大が焦点",
-      "url": "https://www.nihon-ma.co.jp/news/20260929_5891-3/"
-    },
-    {
-      "date": "2026-09-29",
-      "sector": "VC",
-      "buyer": "Canon Marketing Japan MIRAIファンド（グローバル・ブレイン運営）【リード】",
-      "target": "WAYFARER",
-      "amount": "非公開",
-      "industry": "IT・ソフトウェア",
-      "dealType": "シリーズA資金調達",
-      "summary": "ホテル運営とAI運営基盤「Materia Connect」を展開。第三者割当増資でシリーズAを実施",
-      "insight": "運営実績を持つ自社ホテルでSaaSを磨く垂直統合型。外販の成否が評価の分かれ目",
-      "url": "https://prtimes.jp/main/html/rd/p/000000021.000096719.html"
-    },
-    {
-      "date": "2026-09-29",
-      "sector": "VC",
-      "buyer": "KUSABI（KUSABI1号投資事業有限責任組合）【リード】",
-      "target": "knewit",
-      "amount": "非公開（累計調達額2.9億円）",
-      "industry": "IT・ソフトウェア",
-      "dealType": "プレシリーズA資金調達",
-      "summary": "受発注・納品業務向けにコンサル・AIエージェント・BPOを提供。第三者割当増資を実施",
-      "insight": "人手依存の取引実行業務をAI+BPOで代替。製品と役務の収益比率の推移が論点",
-      "url": "https://prtimes.jp/main/html/rd/p/000000029.000112491.html"
     }
   ]
 }
