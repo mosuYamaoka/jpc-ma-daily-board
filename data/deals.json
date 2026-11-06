@@ -1,9 +1,117 @@
 {
-  "updatedAt": "2026-11-05T11:06:38+09:00",
-  "updatedAtDisplay": "2026/11/05 11:06",
-  "windowStart": "2026-10-07",
-  "windowEnd": "2026-11-05",
+  "updatedAt": "2026-11-06T11:07:25+09:00",
+  "updatedAtDisplay": "2026/11/06 11:07",
+  "windowStart": "2026-10-08",
+  "windowEnd": "2026-11-06",
   "deals": [
+    {
+      "date": "2026-11-05",
+      "sector": "PE",
+      "buyer": "アスパラントグループ（運営ファンド傘下SPC「AGSPC43」）",
+      "target": "西日本電線（フジクラ連結子会社、持株60.8%）",
+      "amount": "非公開",
+      "industry": "製造",
+      "dealType": "カーブアウト（子会社株式譲渡）",
+      "summary": "フジクラが電力用ケーブル製造の西日本電線株60.8%をアスパラント運営ファンドのSPCへ譲渡",
+      "insight": "光ファイバ・データセンター投資へ資源集中する非中核レガシー事業の典型的カーブアウト",
+      "url": "https://prtimes.jp/main/html/rd/p/000000216.000056990.html"
+    },
+    {
+      "date": "2026-11-05",
+      "sector": "PE",
+      "buyer": "PEファンド（社名非開示）",
+      "target": "サンケイリアルエステート投資法人（2972）",
+      "amount": "非公開（現行TOB価格12.5万円を5%以上上回る水準を検討）",
+      "industry": "建設・不動産",
+      "dealType": "非公開化（対抗提案・意向表明書受領）",
+      "summary": "サンケイREITがPEファンドから非公開化の対抗提案意向表明書を受領しDD開始",
+      "insight": "村上系シティインデックスのTOBに対抗する構図。J-REIT非公開化がPEの新領域に",
+      "url": "https://www.nikkei.com/article/DGXZQOUB053A50V01C26A1000000/"
+    },
+    {
+      "date": "2026-11-05",
+      "sector": "商社・事業会社",
+      "buyer": "ベンチャーキャピタル2社＋非上場事業会社1社（社名非開示）",
+      "target": "コミスマ（セプテーニHD持分23.3%）",
+      "amount": "約15.9億円",
+      "industry": "IT・ソフトウェア",
+      "dealType": "持分譲渡（持分法適用関連会社の全株売却）",
+      "summary": "セプテーニHDが持分法適用のコミスマ株23.3%全てを15.9億円で譲渡、11/20実行予定",
+      "insight": "ノンコア持分の現金化でROE改善、マンガIP事業の成長は外部資本に委ねる",
+      "url": "https://www.nihon-ma.co.jp/news/20261105_4293-33/"
+    },
+    {
+      "date": "2026-11-05",
+      "sector": "商社・事業会社",
+      "buyer": "理想科学工業",
+      "target": "RISO Copylandia Philippines Corp.",
+      "amount": "約31.99億円（20,308千米ドル）",
+      "industry": "製造",
+      "dealType": "追加株式取得による完全子会社化（52.6%→100%）",
+      "summary": "理想科学工業がフィリピン販売子会社の残り47.4%を約32億円で取得し完全子会社化",
+      "insight": "販売代理店の段階的内製化。新興国での意思決定迅速化と利益の全量取り込み",
+      "url": "https://www.nihon-ma.co.jp/news/20261105_6413-4/"
+    },
+    {
+      "date": "2026-11-05",
+      "sector": "商社・事業会社",
+      "buyer": "JPX総研（JPX Ventures）",
+      "target": "スマートラウンド",
+      "amount": "約3億円",
+      "industry": "金融",
+      "dealType": "出資（CVC、新株予約権引受＋既存株主からの取得）",
+      "summary": "JPX総研がCVC経由で非上場株管理のスマートラウンドへ約3億円出資、覚書も締結",
+      "insight": "取引所が未上場株流通に布石。IPO前後を一気通貫で押さえる市場インフラ戦略",
+      "url": "https://www.jpx.co.jp/corporate/news/news-releases/6020/20261105-01.html"
+    },
+    {
+      "date": "2026-11-05",
+      "sector": "商社・事業会社",
+      "buyer": "オリエンタルランド・イノベーションズ（オリエンタルランド子会社）",
+      "target": "リーフラス",
+      "amount": "非公開",
+      "industry": "人材・サービス",
+      "dealType": "追加出資による持分法適用関連会社化（約20%）",
+      "summary": "オリエンタルランドのCVCがリーフラスへ追加出資、出資比率約20%で持分法関連会社化",
+      "insight": "パークの外で「子どもの幸せ」領域を開拓。地域スポーツを新たな顧客接点に",
+      "url": "https://prtimes.jp/main/html/rd/p/000000038.000072295.html"
+    },
+    {
+      "date": "2026-11-05",
+      "sector": "VC",
+      "buyer": "Insight Partners, アルテミスベンチャーズ, MPower Partners",
+      "target": "Fact Base",
+      "amount": "45億円",
+      "industry": "IT・ソフトウェア",
+      "dealType": "シリーズD資金調達",
+      "summary": "製造業向け図面管理SaaS「ズメーン」のFact BaseがシリーズDで総額45億円を調達、累計112.5億円",
+      "insight": "中小製造業のDXは海外展開余地が大。Insightの継続出資は海外SaaS評価の裏付け",
+      "url": "https://prtimes.jp/main/html/rd/p/000000025.000118783.html"
+    },
+    {
+      "date": "2026-11-05",
+      "sector": "VC",
+      "buyer": "ALPHA, インキュベイトファンド, XTech Ventures, Spiral Capital, 東芝テック, キャナルベンチャーズ, YMFGキャピタル, 楽天キャピタル, ごうぎんキャピタル, New Commerce Ventures",
+      "target": "MUSE",
+      "amount": "17.5億円",
+      "industry": "小売・消費財",
+      "dealType": "資金調達（ラウンド名非公表）",
+      "summary": "小売店舗向けストアロボット「Armo」のMUSEが総額17.5億円を調達、量産体制構築と米国展開へ",
+      "insight": "小売の人手不足で棚補充自動化は需要確実。量産と運用体制の確立が普及の分水嶺",
+      "url": "https://prtimes.jp/main/html/rd/p/000000029.000129448.html"
+    },
+    {
+      "date": "2026-11-05",
+      "sector": "VC",
+      "buyer": "XTech Ventures, みずほキャピタル, PLAID",
+      "target": "Pay2o",
+      "amount": "1.7億円",
+      "industry": "金融",
+      "dealType": "シードラウンド資金調達",
+      "summary": "月謝・会費向け口座直接決済「Pay2o」がシードで1.7億円調達、手数料と情報漏えい不安を軽減",
+      "insight": "カード非依存の口座決済は月謝市場の手数料構造を変える。習い事・会費の面獲得が鍵",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000192950.html"
+    },
     {
       "date": "2026-11-04",
       "sector": "商社・事業会社",
@@ -2079,66 +2187,6 @@
       "summary": "ヘリカル型核融合発電炉を開発。シリーズB累計59.3億円、総調達130.5億円に",
       "insight": "重電・インフラ大手が株主化。資本提携でサプライチェーンを先行確保する構図",
       "url": "https://prtimes.jp/main/html/rd/p/000000082.000089262.html"
-    },
-    {
-      "date": "2026-10-07",
-      "sector": "商社・事業会社",
-      "buyer": "True Data（4416）",
-      "target": "コスモネット（大阪市西区）",
-      "amount": "非公開",
-      "industry": "IT・ソフトウェア",
-      "dealType": "株式取得（完全子会社化）",
-      "summary": "購買データ基盤のTrue Dataが、プロショップ向けPOS・販売管理システム「MUSASI」のコスモネットを全株取得し完全子会社化。",
-      "insight": "消費者購買データにプロ市場POSを接合。住宅需要の先行指標化とAI需要予測への横展開が論点。",
-      "url": "https://www.truedata.co.jp/release20261007/"
-    },
-    {
-      "date": "2026-10-07",
-      "sector": "商社・事業会社",
-      "buyer": "ココナラ（4176）",
-      "target": "Acrosstudio（東京都渋谷区）",
-      "amount": "非公開",
-      "industry": "IT・ソフトウェア",
-      "dealType": "株式取得（51%・子会社化）",
-      "summary": "スキルマーケットのココナラが、AI実装コンサル・FDE支援のAcrosstudioの株式51%を取得し子会社化。",
-      "insight": "26年9月新設のAIカンパニーの中核に据える布陣。人材プール×実装力でAI-BPOへ展開できるかがPMIの肝。",
-      "url": "https://www.nihon-ma.co.jp/news/20261007_4176-20/"
-    },
-    {
-      "date": "2026-10-07",
-      "sector": "商社・事業会社",
-      "buyer": "日特建設（1929）",
-      "target": "地研テクノ（神奈川県相模原市）",
-      "amount": "非公開",
-      "industry": "建設・不動産",
-      "dealType": "株式取得（完全子会社化）",
-      "summary": "法面・地盤改良大手の日特建設が、住宅向け地盤調査・補強工事の地研テクノを全株取得し完全子会社化。",
-      "insight": "インフラ偏重から住宅地盤へ裾野拡大。工法と自社施工班の確保で人手不足下の施工力を内製化。",
-      "url": "https://www.nittoc.co.jp/ir/news/"
-    },
-    {
-      "date": "2026-10-07",
-      "sector": "VC",
-      "buyer": "ALPHA、ALL STAR SAAS FUND、Firstlight Capital、Aflac Ventures Japan、日本郵政キャピタル、Salesforce Ventures、三菱UFJキャピタル、みずほキャピタル、SMBCベンチャーキャピタル",
-      "target": "フライル（Flyle）",
-      "amount": "18.8億円",
-      "industry": "IT・ソフトウェア",
-      "dealType": "シリーズA",
-      "summary": "コンタクトセンター・CX向けAIエージェント「Flyle」がシリーズAで18.8億円調達。創業来累計22.7億円。",
-      "insight": "VOC分析SaaSから電話応対代替へ越境。SaaS単価とBPO代替予算の二重取りが収益の鍵。",
-      "url": "https://prtimes.jp/main/html/rd/p/000000050.000076399.html"
-    },
-    {
-      "date": "2026-10-07",
-      "sector": "VC",
-      "buyer": "ON&BOARD投資事業有限責任組合（リード）、East Ventures、日本スタートアップ支援協会",
-      "target": "Every WiLL",
-      "amount": "1.3億円",
-      "industry": "物流",
-      "dealType": "シードラウンド",
-      "summary": "無人置き配スポット「トリイク」のEvery WiLLがシードで総額1.3億円調達、物流インフラ実装を加速。",
-      "insight": "再配達削減は政策追い風。遊休空間活用で設置原価が低く、面展開スピードが競争要因。",
-      "url": "https://prtimes.jp/main/html/rd/p/000000038.000167534.html"
     }
   ]
 }
