@@ -1,9 +1,69 @@
 {
-  "updatedAt": "2026-11-18T12:29:47+09:00",
-  "updatedAtDisplay": "2026/11/18 12:29",
-  "windowStart": "2026-10-20",
-  "windowEnd": "2026-11-18",
+  "updatedAt": "2026-11-19T12:02:00+09:00",
+  "updatedAtDisplay": "2026/11/19 12:02",
+  "windowStart": "2026-10-21",
+  "windowEnd": "2026-11-19",
   "deals": [
+    {
+      "date": "2026-11-18",
+      "sector": "PE",
+      "buyer": "OQI02（オリックス系PEファンド OQCI Fund LP 傘下）",
+      "target": "リクルートHDの学習・進路支援事業（スタディサプリ等）",
+      "amount": "非公開",
+      "industry": "人材・サービス",
+      "dealType": "カーブアウト（吸収分割＋株式譲渡）",
+      "summary": "リクルートが学習・進路支援事業を新設子会社に分割し全株式をOQI02へ譲渡。2027/4/1予定。",
+      "insight": "大手の非中核事業切出しをPEが受ける典型。教育特化の独立経営で成長投資を加速。",
+      "url": "https://www.nihon-ma.co.jp/news/20261118_6098-14/"
+    },
+    {
+      "date": "2026-11-18",
+      "sector": "商社・事業会社",
+      "buyer": "鴻池運輸(9025)",
+      "target": "NSホールディングス（日進機工の親会社、名古屋市）",
+      "amount": "170億5,000万円",
+      "industry": "建設・不動産",
+      "dealType": "株式取得（100%子会社化）",
+      "summary": "ウォータージェット洗浄に強い日進機工をNSHD経由で取得。実行は2026/12/3予定。",
+      "insight": "構内物流に保全技術を接続し、プラント一括受注へ。今年2件目の買収で攻勢。",
+      "url": "https://www.nihon-ma.co.jp/news/20261118_9025-30/"
+    },
+    {
+      "date": "2026-11-18",
+      "sector": "商社・事業会社",
+      "buyer": "HYBE JAPAN（韓国HYBEの完全子会社）",
+      "target": "KeyHolder(4712)",
+      "amount": "1株1,200円（総額非公開）",
+      "industry": "その他",
+      "dealType": "TOB（連結子会社化、上場維持）",
+      "summary": "乃木坂46運営を持つKeyHolderにTOB。買付期間11/19〜2027/1/6、上限時51.42%。",
+      "insight": "K-POP最大手が日本のタレント発掘・運営基盤を獲得。上場維持で人材流出を抑制。",
+      "url": "https://www.nihon-ma.co.jp/news/20261118_4712-15/"
+    },
+    {
+      "date": "2026-11-18",
+      "sector": "商社・事業会社",
+      "buyer": "コンフィデンス・インターワークス(7374)",
+      "target": "ピアズ(7066)のSES事業",
+      "amount": "3億円",
+      "industry": "IT・ソフトウェア",
+      "dealType": "事業承継（吸収分割）",
+      "summary": "Java・組込み・RPA領域のSES事業を現金3億円で承継。効力発生2027/1/1予定。",
+      "insight": "自社の採用・育成力に技術者プールを接続。配属単価の引上げが成否を分ける。",
+      "url": "https://www.nihon-ma.co.jp/news/20261118_7374-17/"
+    },
+    {
+      "date": "2026-11-18",
+      "sector": "商社・事業会社",
+      "buyer": "UNICONホールディングス(407A)",
+      "target": "荻野建設（山形県山形市）",
+      "amount": "非公開",
+      "industry": "建設・不動産",
+      "dealType": "株式取得（100%子会社化）",
+      "summary": "山形市の総合建設業・荻野建設の全株式を取得。譲渡実行は2027/3/31予定。",
+      "insight": "東北の建築技術者確保が主眼。地方建設の事業承継ロールアップ事例。",
+      "url": "https://www.nihon-ma.co.jp/news/20261118_407A-5/"
+    },
     {
       "date": "2026-11-17",
       "sector": "商社・事業会社",
@@ -2475,66 +2535,6 @@
       "summary": "核融合FAST計画のStarlight EngineがJR東日本系ファンドから出資受入。金額非公開。",
       "insight": "7月の60.6億円に続く事業会社連携。鉄道の大口電力需要が核融合の出口仮説になる。",
       "url": "https://prtimes.jp/main/html/rd/p/000000014.000152790.html"
-    },
-    {
-      "date": "2026-10-20",
-      "sector": "PE",
-      "buyer": "BCJ-110（ベインキャピタル傘下SPC）",
-      "target": "イーソル株式会社（東証4420）",
-      "amount": "約140億2,900万円（1株820円）",
-      "industry": "IT・ソフトウェア",
-      "dealType": "バイアウト（MBO・TOB成立／非公開化）",
-      "summary": "ベインキャピタル傘下BCJ-110によるイーソルへのMBO・TOBが成立。1株820円・総額約140億円で非公開化へ。",
-      "insight": "組込みOS技術の非公開化。車載SDV向け投資を株価圧力なしで加速する狙い。",
-      "url": "https://www.release.tdnet.info/inbs/140120261020553355.pdf"
-    },
-    {
-      "date": "2026-10-20",
-      "sector": "PE",
-      "buyer": "横浜キャピタル運営「Yokohama Next 2号投資事業有限責任組合」等出資のSPC",
-      "target": "株式会社ディオントーキョー",
-      "amount": "非公開",
-      "industry": "小売・消費財",
-      "dealType": "セカンダリー・バイアウト（サーチファンドEXIT／事業承継）",
-      "summary": "サーチファンド・ジャパンが承継支援したディオントーキョー株を横浜キャピタル系ファンドへ全株譲渡。",
-      "insight": "サーチファンドのEXIT事例。地銀系PEが受け皿となる承継リレーの型が確立。",
-      "url": "https://www.searchfund.co.jp/news/20261020"
-    },
-    {
-      "date": "2026-10-20",
-      "sector": "商社・事業会社",
-      "buyer": "ABB株式会社（スイスABBの日本法人）",
-      "target": "三菱電機 配電制御機器事業（新設分割会社）",
-      "amount": "824億円（株式51%譲渡価格、価格調整あり）",
-      "industry": "製造",
-      "dealType": "合弁設立（会社分割＋株式51%譲渡）",
-      "summary": "三菱電機が配電制御機器事業を新会社に吸収分割し、ABB日本法人へ51%を824億円で譲渡し合弁化。",
-      "insight": "成熟事業を持分法化し資本効率を改善。販路はABBに委ね49%で果実も残す切出し型再編。",
-      "url": "https://japanir.jp/wp-content/uploads/2026/10/6503-20261020-01.pdf"
-    },
-    {
-      "date": "2026-10-20",
-      "sector": "商社・事業会社",
-      "buyer": "リログループ（8876）",
-      "target": "ATIV Medical Pte. Ltd.（シンガポール）",
-      "amount": "16.2億円（関連費用含め約16.8億円）",
-      "industry": "医療・ヘルスケア",
-      "dealType": "子会社化（議決権90.0%取得）",
-      "summary": "リログループが東南アジアで邦人向け医療サービスを営むATIV Medicalの90%を16.2億円で取得。",
-      "insight": "海外赴任支援の前後工程を垂直統合。駐在員の医療という高頻度接点で囲い込みを狙う。",
-      "url": "https://japanir.jp/wp-content/uploads/2026/10/8876-20261020-01.pdf"
-    },
-    {
-      "date": "2026-10-20",
-      "sector": "VC",
-      "buyer": "INSPiRE相利共生1号ファンド、島津未来創造ファンド、大林組、Love Veggies Holding Ltd.",
-      "target": "株式会社Kinish",
-      "amount": "4.9億円",
-      "industry": "食品・農業",
-      "dealType": "シリーズA（ファーストクローズ）",
-      "summary": "コメ由来の代替乳製品KinishがシリーズA1stクローズで4.9億円調達。日米で販売拡大とカゼイン米開発へ。",
-      "insight": "引受先は島津・大林組等の事業会社CVC中心。植物分子農業の量産実装パートナー確保が狙い。",
-      "url": "https://prtimes.jp/main/html/rd/p/000000007.000155596.html"
     }
   ]
 }
