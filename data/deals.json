@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-23T11:24:36+09:00",
-  "updatedAtDisplay": "2026/11/23 11:24",
-  "windowStart": "2026-10-25",
-  "windowEnd": "2026-11-23",
+  "updatedAt": "2026-11-24T14:48:44+09:00",
+  "updatedAtDisplay": "2026/11/24 14:48",
+  "windowStart": "2026-10-26",
+  "windowEnd": "2026-11-24",
   "deals": [
     {
       "date": "2026-11-20",
@@ -2463,18 +2463,6 @@
       "summary": "マグマスパ式サウナの全国チェーン展開に向け個人投資家と事業会社から調達",
       "insight": "外食・スポーツ経営者が参画。店舗ロールアウト前提のサブスク収益設計が論点",
       "url": "https://prtimes.jp/main/html/rd/p/000000004.000183139.html"
-    },
-    {
-      "date": "2026-10-25",
-      "sector": "VC",
-      "buyer": "サザビーリーグ",
-      "target": "ARCHIVESTOCK",
-      "amount": "非公開",
-      "industry": "小売・消費財",
-      "dealType": "第三者割当増資（事業会社による戦略出資・金額非公開）",
-      "summary": "ラグジュアリー古着フリマアプリ運営がサザビーリーグから出資を受け入れ",
-      "insight": "ブランド保有企業が二次流通を内部化する動き。真贋鑑定が参入障壁の核",
-      "url": "https://prtimes.jp/main/html/rd/p/000000016.000114105.html"
     }
   ]
 }
